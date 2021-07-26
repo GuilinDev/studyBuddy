@@ -7,7 +7,7 @@ Meeting notes for Isabella, Oliver and me
 
 **Speaker:** XiuYi 
 
-**Attendees:** Oliver, Isabella
+**Attendees:** Oliver, Isabella, Joy
 
 **Meeting Notes:**
 
@@ -20,25 +20,31 @@ Meeting notes for Isabella, Oliver and me
 * 代码
 
 
-### 001. 待定
-**Meeting Date/Time:** 待定
+### 001. 1) Topic 1; 2) Topic 2; 
+**Meeting Date/Time:** 07/27/2021 
 
-**Speaker:**  Oliver
+**Speaker:**  Oliver, Joy
 
 **Attendees:** XiuYi, Isabella
 
+**Meeting Notes:**
 
-### 002. 待定
-**Meeting Date/Time:** 待定 
 
-**Speaker:**  Isabella
+### 002. 1) Topic 1; 2) Topic 2; 
+**Meeting Date/Time:** 07/30/2021 
 
-**Attendees:** Oliver, XiuYi
+**Speaker:**  Isabella, XiuYi
+
+**Attendees:** Joy, Oliver
+
+**Meeting Notes:**
 
 
 ### 003. 待定
 **Meeting Date/Time:** 待定 
 
-**Speaker:** XiuYi 
+**Speaker:** 待定
 
-**Attendees:** Oliver, Isabella
+**Attendees:**
+
+**Meeting Notes:**
