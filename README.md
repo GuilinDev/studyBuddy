@@ -29,6 +29,12 @@ Meeting notes for Isabella, Oliver and me
 
 **Meeting Notes:**
 
+* 
+* 
+* 
+* 
+* 
+
 
 ### 002. 1) Topic 1; 2) Topic 2; 
 **Meeting Date/Time:** 07/30/2021 
@@ -38,7 +44,12 @@ Meeting notes for Isabella, Oliver and me
 **Attendees:** Joy, Oliver
 
 **Meeting Notes:**
-
+ 
+* 
+* 
+* 
+* 
+* 
 
 ### 003. 待定
 **Meeting Date/Time:** 待定 
@@ -48,3 +59,9 @@ Meeting notes for Isabella, Oliver and me
 **Attendees:**
 
 **Meeting Notes:**
+
+* 
+* 
+* 
+* 
+* 
