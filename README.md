@@ -30,6 +30,8 @@ Meeting notes for Isabella, Oliver and me
 **Meeting Notes:**
 
 Oliver: 缓存简介，缓存更新策略（上）
+* [缓存Eviction policies](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
+* [缓存失效的更新，Write Through, Write Back, Write Around](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
 * 链接1 - 
 * 链接2 - 
 
