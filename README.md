@@ -1,8 +1,7 @@
-## STB
 
-Meeting notes for Isabella, Oliver and me
+Meeting notes for Isabella, Oliver, Joy and me
 
-### 000. Consistent Hashing
+## 000. Consistent Hashing
 **Meeting Date/Time:** 07/25/2021 
 
 **Speaker:** XiuYi 
@@ -20,7 +19,7 @@ Meeting notes for Isabella, Oliver and me
 * 代码
 
 
-### 001. 1) Oliver: 缓存简介，缓存更新策略（上）; 2) Joy：DDIA第一章; 
+## 001. 1) Oliver: 缓存简介，缓存更新策略（上）; 2) Joy：DDIA第一章; 
 **Meeting Date/Time:** 07/27/2021 
 
 **Speaker:**  Oliver, Joy
@@ -41,7 +40,7 @@ Joy：DDIA第一章
 * Maintainability
 
 
-### 002. 1) Topic 1; 2) Topic 2; 
+## 002. 1) Topic 1; 2) Topic 2; 
 **Meeting Date/Time:** 07/30/2021 
 
 **Speaker:**  Isabella, XiuYi
@@ -56,7 +55,7 @@ Joy：DDIA第一章
 * 
 * 
 
-### 003. 待定
+## 003. 待定
 **Meeting Date/Time:** 待定 
 
 **Speaker:** 待定
