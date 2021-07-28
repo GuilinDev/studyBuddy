@@ -20,7 +20,7 @@ Meeting notes for Isabella, Oliver and me
 * 代码
 
 
-### 001. 1) Topic 1; 2) Topic 2; 
+### 001. 1) Oliver: 缓存简介，缓存更新策略（上）; 2) Joy：DDIA第一章; 
 **Meeting Date/Time:** 07/27/2021 
 
 **Speaker:**  Oliver, Joy
@@ -29,11 +29,13 @@ Meeting notes for Isabella, Oliver and me
 
 **Meeting Notes:**
 
-* 
-* 
-* 
-* 
-* 
+1) 
+* 链接1 - 
+* 链接2 - 
+2）
+* Reliability
+* Scalability
+* Maintainability
 
 
 ### 002. 1) Topic 1; 2) Topic 2; 
