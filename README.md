@@ -29,11 +29,11 @@ Meeting notes for Isabella, Oliver and me
 
 **Meeting Notes:**
 
-1) Oliver: 缓存简介，缓存更新策略（上）
+Oliver: 缓存简介，缓存更新策略（上）
 * 链接1 - 
 * 链接2 - 
 
-2）Joy：DDIA第一章
+Joy：DDIA第一章
 * Reliability
 * Scalability
 * Maintainability
