@@ -29,10 +29,10 @@ Meeting notes for Isabella, Oliver, Joy and me
 **Meeting Notes:**
 
 Oliver: 缓存简介，缓存更新策略（上）
-* [缓存Eviction policies](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p){:target="_blank"}
-* [缓存失效的更新，Write Through, Write Back, Write Around](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p){:target="_blank"}
-* [扩展阅读1-Redis小结](https://zhuanlan.zhihu.com/p/59168140){:target="_blank"}
-* [扩展阅读2-双写一致性方案](https://www.cnblogs.com/rjzheng/p/9041659.html){:target="_blank"}
+* [缓存Eviction policies](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
+* [缓存失效的更新，Write Through, Write Back, Write Around](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
+* [扩展阅读1-Redis小结](https://zhuanlan.zhihu.com/p/59168140)
+* [扩展阅读2-双写一致性方案](https://www.cnblogs.com/rjzheng/p/9041659.html)
 
 Joy：DDIA第一章
 * Reliability
