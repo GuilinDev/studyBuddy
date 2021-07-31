@@ -40,7 +40,7 @@ Joy：DDIA第一章
 * Maintainability
 
 
-## 002. 1) Topic 1; 2) Topic 2; 
+## 002. 1) push/pull & Polling; 2) Inverted Index; 
 **Meeting Date/Time:** 07/30/2021 
 
 **Speaker:**  Isabella, XiuYi
@@ -49,14 +49,16 @@ Joy：DDIA第一章
 
 **Meeting Notes:**
  
-* 
-* 
-* 
-* 
-* 
+ push/pull & Polling
+* short polling/long polling/websocket
+* pull/pull各自适用场景
 
-## 003. 待定
-**Meeting Date/Time:** 待定 
+Inverted Index
+* 关键词为key，出现地方为value
+* lucene，Solr/ElasticSearch
+
+## 003. 1) 2)
+**Meeting Date/Time:** 07/31/2021 
 
 **Speaker:** 待定
 
