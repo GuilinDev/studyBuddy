@@ -57,20 +57,25 @@ Inverted Index
 * 关键词为key，出现地方为value
 * lucene，Solr/ElasticSearch
 
-## 003. 1) 2)
+## 003. 1) 如何保证消息的时序性 2) 缓存简介，缓存更新策略（下）
 **Meeting Date/Time:** 07/31/2021 
 
-**Speaker:** 待定
+**Speaker:** XiuYi, Oliver
 
-**Attendees:**
+**Attendees:** Isabella, Joy
 
 **Meeting Notes:**
 
-* 
-* 
-* 
-* 
-* 
+如何保证消息的时序性
+* 分布式，集群化部署
+* 全局ID generator
+* 离线推送
+
+缓存简介，缓存更新策略（下）
+* Weak/Eventual/Strong Consistency
+* data parition - tweet id
+* fail over / replication
+* cache aside(write around) / write back / write through / refresh ahead
 
 ## 004. 待定
 **Meeting Date/Time:** 待定 
