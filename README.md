@@ -77,6 +77,81 @@ Inverted Index
 * fail over / replication
 * cache aside(write around) / write back / write through / refresh ahead
 
+## 004. 1) 2) DDIA第二章
+**Meeting Date/Time:** 08/05/2021 
+
+**Speaker:** Isabella, Joy
+
+**Attendees:** Oliver, Xiuyi
+
+**Meeting Notes:**
+
+* 
+* 
+* 
+* 
+* 
+
+## 004. 待定
+**Meeting Date/Time:** 待定 
+
+**Speaker:** 待定
+
+**Attendees:**
+
+**Meeting Notes:**
+
+* 
+* 
+* 
+* 
+* 
+
+## 004. 待定
+**Meeting Date/Time:** 待定 
+
+**Speaker:** 待定
+
+**Attendees:**
+
+**Meeting Notes:**
+
+* 
+* 
+* 
+* 
+* 
+
+## 004. 待定
+**Meeting Date/Time:** 待定 
+
+**Speaker:** 待定
+
+**Attendees:**
+
+**Meeting Notes:**
+
+* 
+* 
+* 
+* 
+* 
+
+## 004. 待定
+**Meeting Date/Time:** 待定 
+
+**Speaker:** 待定
+
+**Attendees:**
+
+**Meeting Notes:**
+
+* 
+* 
+* 
+* 
+* 
+
 ## 004. 待定
 **Meeting Date/Time:** 待定 
 
