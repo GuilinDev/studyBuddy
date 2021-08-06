@@ -77,27 +77,31 @@ Inverted Index
 * fail over / replication
 * cache aside(write around) / write back / write through / refresh ahead
 
-## 004. 1) 2) DDIA第二章
+## 004. 1) API设计要点 2) BQ准备，亚麻16条领导力准则
 **Meeting Date/Time:** 08/05/2021 
 
-**Speaker:** Isabella, Joy
+**Speaker:** Isabella, Xiuyi
 
-**Attendees:** Oliver, Xiuyi
+**Attendees:** Oliver, Joy
 
 **Meeting Notes:**
 
-* 
-* 
-* 
-* 
-* 
+API设计要点
+* RPC
+* SOAP
+* REST
+* GraphQL
+
+BQ准备，亚麻领导力准则
+* 自我介绍
+* 1）客户至上； 2） 主人翁精神； 3）创新简化； 4）决策正确
 
 ## 004. 待定
-**Meeting Date/Time:** 待定 
+**Meeting Date/Time:** 08/05/2021 
 
-**Speaker:** 待定
+**Speaker:** Joy, Oliver
 
-**Attendees:**
+**Attendees:** Isabella, Xiuyi
 
 **Meeting Notes:**
 
