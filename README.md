@@ -96,27 +96,26 @@ BQ准备，亚麻领导力准则
 * 自我介绍
 * 1）客户至上； 2） 主人翁精神； 3）创新简化； 4）决策正确
 
-## 004. 待定
-**Meeting Date/Time:** 08/05/2021 
+## 005. 1) RDBMS 2) DDIA第二章
+**Meeting Date/Time:** 08/08/2021 
 
-**Speaker:** Joy, Oliver
+**Speaker:**  Oliver, Joy
 
 **Attendees:** Isabella, Xiuyi
 
 **Meeting Notes:**
+1） 
+* master-master, master-slave, federation, sharding
+2） 
+* SQL/Nosql 
+* 关系型 文档型
 
-* 
-* 
-* 
-* 
-* 
+## 004. 1） 2）
+**Meeting Date/Time:** 08/12/2021 
 
-## 004. 待定
-**Meeting Date/Time:** 待定 
+**Speaker:** Joy, Isabella
 
-**Speaker:** 待定
-
-**Attendees:**
+**Attendees:** Oliver, Xiuyi
 
 **Meeting Notes:**
 
