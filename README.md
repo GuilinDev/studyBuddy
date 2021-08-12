@@ -96,7 +96,7 @@ BQ准备，亚麻领导力准则
 * 自我介绍
 * 1）客户至上； 2） 主人翁精神； 3）创新简化； 4）决策正确
 
-## 005. 1) RDBMS 2) DDIA第二章
+## 005. 1) SDP - Database, RDBMS, NoSQL 2) DDIA第二章
 **Meeting Date/Time:** 08/08/2021 
 
 **Speaker:**  Oliver, Joy
@@ -104,13 +104,19 @@ BQ准备，亚麻领导力准则
 **Attendees:** Isabella, Xiuyi
 
 **Meeting Notes:**
-1） 
-* master-master, master-slave, federation, sharding
-2） 
+1）Oli - SDP - Database
+* #1: Relational database management system (RDBMS)
+  * master-master, master-slave, federation, sharding
+* #2: NoSQL
+  * Key-Value Store, Documentation Store, Wide-Column Store, Graph Database  
+* #3: SQL or NoSQL
+* [SDP](https://github.com/donnemartin/system-design-primer)
+
+2）Joy - DDIA Chapter II 
 * SQL/Nosql 
 * 关系型 文档型
 
-## 004. 1） 2）
+## 006. 1） 2）
 **Meeting Date/Time:** 08/12/2021 
 
 **Speaker:** Joy, Isabella
@@ -125,7 +131,7 @@ BQ准备，亚麻领导力准则
 * 
 * 
 
-## 004. 待定
+## 007. 待定
 **Meeting Date/Time:** 待定 
 
 **Speaker:** 待定
@@ -140,7 +146,7 @@ BQ准备，亚麻领导力准则
 * 
 * 
 
-## 004. 待定
+## 008. 待定
 **Meeting Date/Time:** 待定 
 
 **Speaker:** 待定
