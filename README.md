@@ -110,7 +110,7 @@ BQ准备，亚麻领导力准则
 * SQL/Nosql 
 * 关系型 文档型
 
-## 004. 1） 2）
+## 006. 1）Design Chat Service (Grokking) 2）MicroService
 **Meeting Date/Time:** 08/12/2021 
 
 **Speaker:** Joy, Isabella
@@ -118,14 +118,16 @@ BQ准备，亚麻领导力准则
 **Attendees:** Oliver, Xiuyi
 
 **Meeting Notes:**
+1) Design Chat Service (Grokking)
+* polling - WS
+* consistency
+* store - column based
+* partitioning
 
-* 
-* 
-* 
-* 
-* 
+2）MicroService
+* Introduction
 
-## 004. 待定
+## 007. 08/15/2021 
 **Meeting Date/Time:** 待定 
 
 **Speaker:** 待定
@@ -140,7 +142,7 @@ BQ准备，亚麻领导力准则
 * 
 * 
 
-## 004. 待定
+## 008. 待定
 **Meeting Date/Time:** 待定 
 
 **Speaker:** 待定
