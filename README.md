@@ -133,22 +133,24 @@ BQ准备，亚麻领导力准则
 2）MicroService
 * Introduction
 
-## 007. 08/15/2021 
-**Meeting Date/Time:** 待定 
+## 007. 1) 2) Chat Service补漏
+**Meeting Date/Time:** 08/15/2021  
 
-**Speaker:** 待定
+**Speaker:** Oliver, Xiuyi
 
-**Attendees:**
+**Attendees:** Joy, Isabella
 
 **Meeting Notes:**
+1) chat 补充
+* polling and websocket
+* push vs pull
+* 流程图
 
-* 
-* 
-* 
-* 
-* 
+2) 分库分表
+* 策略
+* join操作
 
-## 008. 待定
+## 008. 复习 1）Joy复习Oliver的topics， 2）Xiuyi复习Isabella的topics
 **Meeting Date/Time:** 待定 
 
 **Speaker:** 待定
