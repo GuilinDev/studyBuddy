@@ -133,7 +133,7 @@ BQ准备，亚麻领导力准则
 2）MicroService
 * Introduction
 
-## 007. 1) 2) Chat Service补漏
+## 007. 1)Xiuyi讲Chat Service补漏 2) Oliver分库分表
 **Meeting Date/Time:** 08/15/2021  
 
 **Speaker:** Oliver, Xiuyi
@@ -150,32 +150,120 @@ BQ准备，亚麻领导力准则
 * 策略
 * join操作
 
-## 008. 复习 1）Joy复习Oliver的topics， 2）Xiuyi复习Isabella的topics
-**Meeting Date/Time:** 待定 
+## 008. 1）Joy讲IG， 2）Xiuyi复习Isabella的topics
+**Meeting Date/Time:** 08/19/2021  
 
-**Speaker:** 待定
+**Speaker:** Joy, Xiuyi
 
-**Attendees:**
-
-**Meeting Notes:**
-
-* 
-* 
-* 
-* 
-* 
-
-## 004. 待定
-**Meeting Date/Time:** 待定 
-
-**Speaker:** 待定
-
-**Attendees:**
+**Attendees:** Isabella, Oliver
 
 **Meeting Notes:**
+1) 
+*
+2) 
+* 
 
+## 009. 1）Oliver算法模板， 2）Isabella复习Joy的topics
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Oliver， Isabella
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 算法模板
+* Binary Search
+* Two Pointer
+* BFS
+* BT/BST
+* DP
+* Heap
+* Union Find
+* Trie
+2) 
 * 
+
+## 010. 1）
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Oliver， Isabella
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 算法模板
+* Binary Search
+* Two Pointer
+* BFS
+* BT/BST
+* DP
+2) 
 * 
+
+## 011. 1）
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Oliver， Isabella
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 算法模板
+* Binary Search
+* Two Pointer
+* BFS
+* BT/BST
+* DP
+2) 
 * 
+
+## 012. 1）
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Oliver， Isabella
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 算法模板
+* Binary Search
+* Two Pointer
+* BFS
+* BT/BST
+* DP
+2) 
 * 
+
+## 013. 1）
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Oliver， Isabella
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 算法模板
+* Binary Search
+* Two Pointer
+* BFS
+* BT/BST
+* DP
+2) 
+* 
+
+## 014. 1）
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Oliver， Isabella
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 算法模板
+* Binary Search
+* Two Pointer
+* BFS
+* BT/BST
+* DP
+2) 
 * 
