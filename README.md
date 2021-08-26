@@ -183,20 +183,16 @@ BQ准备，亚麻领导力准则
 2) 
 * 
 
-## 010. 1）
-**Meeting Date/Time:** 08/22/2021 
+## 010. 1）Joy复习Oliver的topics 2）Xiuyi - Load Balancer
+**Meeting Date/Time:** 08/26/2021 
 
-**Speaker:** Oliver， Isabella
+**Speaker:** Joy, Xiuyi
 
-**Attendees:** Joy, Xiuyi
+**Attendees:** Oliver， Isabella
 
 **Meeting Notes:**
 1) 算法模板
-* Binary Search
-* Two Pointer
-* BFS
-* BT/BST
-* DP
+
 2) 
 * 
 
