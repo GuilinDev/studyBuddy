@@ -191,10 +191,16 @@ BQ准备，亚麻领导力准则
 **Attendees:** Oliver， Isabella
 
 **Meeting Notes:**
-1) 算法模板
+1) From grokking
+* Load Balancer
+* caching
+* Data Partitioning
+* SQL/NoSQL
+* CAP
+* Long Polling, WB, Server sent events(SSE)
 
 2) 
-* 
+* Load Balancer必知必会
 
 ## 011. 1）
 **Meeting Date/Time:** 08/22/2021 
