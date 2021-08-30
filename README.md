@@ -202,21 +202,16 @@ BQ准备，亚麻领导力准则
 2) 
 * Load Balancer必知必会
 
-## 011. 1）
-**Meeting Date/Time:** 08/22/2021 
+## 011. 1）Isabella复习Facebook message和IG
+**Meeting Date/Time:** 08/29/2021 
 
-**Speaker:** Oliver， Isabella
+**Speaker:**  Isabella, Oliver
 
 **Attendees:** Joy, Xiuyi
 
 **Meeting Notes:**
-1) 算法模板
-* Binary Search
-* Two Pointer
-* BFS
-* BT/BST
-* DP
-2) 
+1) 
+* session ID 是否可以用全局ID生成器例如Redis？
 * 
 
 ## 012. 1）
