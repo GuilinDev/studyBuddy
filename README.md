@@ -214,22 +214,19 @@ BQ准备，亚麻领导力准则
 * session ID 是否可以用全局ID生成器例如Redis？
 * 
 
-## 012. 1）
-**Meeting Date/Time:** 08/22/2021 
+## 012. 1）Desgin Youtube 2) pre sum
+**Meeting Date/Time:** 09/02/2021 
 
-**Speaker:** Oliver， Isabella
+**Speaker:** Joy，Oliver， 
 
-**Attendees:** Joy, Xiuyi
+**Attendees:** Isabella, Xiuyi
 
 **Meeting Notes:**
-1) 算法模板
-* Binary Search
-* Two Pointer
-* BFS
-* BT/BST
-* DP
+1) 
+* cache storage
+
 2) 
-* 
+* tech blog
 
 ## 013. 1）
 **Meeting Date/Time:** 08/22/2021 
