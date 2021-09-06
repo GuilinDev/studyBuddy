@@ -228,20 +228,16 @@ BQ准备，亚麻领导力准则
 2) 
 * tech blog
 
-## 013. 1）
-**Meeting Date/Time:** 08/22/2021 
+## 013. 1）Notification 2) Job Scheduler
+**Meeting Date/Time:** 09/05/2021 
 
-**Speaker:** Oliver， Isabella
+**Speaker:** Xiuyi， Isabella
 
-**Attendees:** Joy, Xiuyi
+**Attendees:** Joy, Oliver
 
 **Meeting Notes:**
 1) 算法模板
-* Binary Search
-* Two Pointer
-* BFS
-* BT/BST
-* DP
+*
 2) 
 * 
 
