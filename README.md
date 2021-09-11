@@ -236,24 +236,120 @@ BQ准备，亚麻领导力准则
 **Attendees:** Joy, Oliver
 
 **Meeting Notes:**
-1) 算法模板
+1) 
 *
 2) 
 * 
 
-## 014. 1）
-**Meeting Date/Time:** 08/22/2021 
+## 014. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 09/10/2021 
 
-**Speaker:** Oliver， Isabella
+**Speaker:** Joy, Xiuyi
 
-**Attendees:** Joy, Xiuyi
+**Attendees:** Oliver， Isabella
 
 **Meeting Notes:**
-1) 算法模板
-* Binary Search
-* Two Pointer
-* BFS
-* BT/BST
-* DP
+1) 复习topics
+* 一致性hash
+* Inverted Index
+* Cookie, Session, Token
+2) 
+* 
+
+## 015. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 09/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
+2) 
+* 
+
+## 016. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
+2) 
+* 
+
+## 017. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
+2) 
+* 
+
+## 018. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
+2) 
+* 
+
+## 019. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
+2) 
+* 
+
+## 020. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
+2) 
+* 
+
+## 021. 1）Joy复习Xiuyi的topics 2）多线程
+**Meeting Date/Time:** 08/22/2021 
+
+**Speaker:** Joy, Xiuyi
+
+**Attendees:** Oliver， Isabella
+
+**Meeting Notes:**
+1) 复习topics
+* 一致性hash
+* 
 2) 
 * 
