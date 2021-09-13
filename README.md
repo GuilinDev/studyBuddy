@@ -253,20 +253,22 @@ BQ准备，亚麻领导力准则
 * 一致性hash
 * Inverted Index
 * Cookie, Session, Token
+* Load Balancer
 2) 
 * 
 
-## 015. 1）Joy复习Xiuyi的topics 2）多线程
-**Meeting Date/Time:** 09/22/2021 
+## 015. 1）Isabella复习Xiuyi的topics 
+**Meeting Date/Time:** 09/12/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:** Isabella
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Joy, Xiuyi 
 
 **Meeting Notes:**
 1) 复习topics
-* 一致性hash
-* 
+* Global ID generator
+* Design Chat System
+* Design Notification System
 2) 
 * 
 
