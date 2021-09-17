@@ -266,18 +266,17 @@ BQ准备，亚麻领导力准则
 
 **Meeting Notes:**
 1) 复习topics
-* Global ID generator
-* Design Chat System
-* Design Notification System
-2) 
 * 
+2) 
+* Learn and Be Curious
+* Earn Trust
 
-## 016. 1）Joy复习Xiuyi的topics 2）多线程
-**Meeting Date/Time:** 08/22/2021 
+## 016. 1）Typeahead 2）
+**Meeting Date/Time:** 09/17/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:** Oliver,  Joy
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Xiuyi, Isabella
 
 **Meeting Notes:**
 1) 复习topics
