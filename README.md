@@ -271,18 +271,21 @@ BQ准备，亚麻领导力准则
 * Learn and Be Curious
 * Earn Trust
 
-## 016. 1）Typeahead 2）
+## 016. 1）Tiny URL 2）Typeahead
 **Meeting Date/Time:** 09/17/2021 
 
-**Speaker:** Oliver,  Joy
+**Speaker:** Joy, Oliver
 
 **Attendees:** Xiuyi, Isabella
 
 **Meeting Notes:**
-1) 复习topics
-* 一致性hash
-* 
-2) 
+1) Tiny URL
+* 不同短网址在不同网站上，检测访问量
+* 一个长网址对应多个短网址(Cassandra等column based)
+* 服务器和用户可设置过期时间，不能被猜到
+* hash function
+* Key generation Service生成短网址的letters， 6个8个等
+2) Typeahead
 * 
 
 ## 017. 1）Joy复习Xiuyi的topics 2）多线程
