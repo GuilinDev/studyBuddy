@@ -288,16 +288,15 @@ BQ准备，亚麻领导力准则
 2) Typeahead
 * 
 
-## 017. 1）Joy复习Xiuyi的topics 2）多线程
-**Meeting Date/Time:** 08/22/2021 
+## 017. 1）网络安全基础 2）Design Parking lot
+**Meeting Date/Time:** 09/19/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:** Xiuyi, Isabella
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Oliver， Joy
 
 **Meeting Notes:**
 1) 复习topics
-* 一致性hash
 * 
 2) 
 * 
