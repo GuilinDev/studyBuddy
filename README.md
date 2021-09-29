@@ -302,17 +302,17 @@ BQ准备，亚麻领导力准则
 * 
 
 ## 018. 1）Joy复习Xiuyi的topics 2）多线程
-**Meeting Date/Time:** 08/22/2021 
+**Meeting Date/Time:** 09/28/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:** Joy, Isabella
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Oliver， Xiuyi
 
 **Meeting Notes:**
-1) 复习topics
-* 一致性hash
-* 
-2) 
+1) 图论入门
+* Queue
+* Priority Queue
+2) Union Find
 * 
 
 ## 019. 1）Joy复习Xiuyi的topics 2）多线程
