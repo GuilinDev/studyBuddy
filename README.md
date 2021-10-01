@@ -301,7 +301,7 @@ BQ准备，亚麻领导力准则
 2) 
 * 
 
-## 018. 1）Joy复习Xiuyi的topics 2）多线程
+## 018. 1）图论，DP基础 2）Union Find
 **Meeting Date/Time:** 09/28/2021 
 
 **Speaker:** Joy, Isabella
@@ -315,16 +315,16 @@ BQ准备，亚麻领导力准则
 2) Union Find
 * 
 
-## 019. 1）Joy复习Xiuyi的topics 2）多线程
-**Meeting Date/Time:** 08/22/2021 
+## 019. 1）设计KV Store
+**Meeting Date/Time:** 09/30/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:**  Xiuyi
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Oliver，Joy, Isabella and many others
 
 **Meeting Notes:**
-1) 复习topics
-* 一致性hash
+1) 设计KV Store
+* 
 * 
 2) 
 * 
