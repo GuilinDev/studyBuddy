@@ -296,7 +296,7 @@ BQ准备，亚麻领导力准则
 **Attendees:** Oliver， Joy
 
 **Meeting Notes:**
-1) 复习topics
+1) 
 * 
 2) 
 * 
@@ -329,18 +329,25 @@ BQ准备，亚麻领导力准则
 2) 
 * 
 
-## 020. 1）Joy复习Xiuyi的topics 2）多线程
+## 020. 1）Grokking新的topics 2）Design Rate Limiter 3)
 **Meeting Date/Time:** 08/22/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:** Joy, Isabella, Oliver
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Xiu Yi
 
 **Meeting Notes:**
-1) 复习topics
-* 一致性hash
+1) 
+* Redundancy (server) and Replication(data)
+* Bloom Filters - 不为1肯定没有，为1不保证一定有
+* Quorum
+* Leader and Follower
+* Heartbeat
+* Checksum - 对TCP/UDP的报文段进行校验/检测nodes之间数据复制是否完整
+2) Design Rate Limiter
+* Token bucket
 * 
-2) 
+3) 
 * 
 
 ## 021. 1）Joy复习Xiuyi的topics 2）多线程
