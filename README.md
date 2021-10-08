@@ -350,16 +350,59 @@ BQ准备，亚麻领导力准则
 3) 
 * 
 
-## 021. 1）Joy复习Xiuyi的topics 2）多线程
-**Meeting Date/Time:** 08/22/2021 
+## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
+**Meeting Date/Time:** 10/07/2021 
 
-**Speaker:** Joy, Xiuyi
+**Speaker:**  Isabella, Oliver
 
-**Attendees:** Oliver， Isabella
+**Attendees:** Joy, Xiuyi
 
 **Meeting Notes:**
-1) 复习topics
-* 一致性hash
+1) 
+* 
+* 
+2) 
+* 
+
+
+## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
+**Meeting Date/Time:** 10/07/2021 
+
+**Speaker:**  Isabella, Oliver
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
+**Meeting Date/Time:** 10/07/2021 
+
+**Speaker:**  Isabella, Oliver
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
+**Meeting Date/Time:** 10/07/2021 
+
+**Speaker:**  Isabella, Oliver
+
+**Attendees:** Joy, Xiuyi
+
+**Meeting Notes:**
+1) 
+* 
 * 
 2) 
 * 
