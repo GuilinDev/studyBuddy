@@ -365,35 +365,37 @@ BQ准备，亚麻领导力准则
 * 
 
 
-## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
-**Meeting Date/Time:** 10/07/2021 
+## 022. 1）亚麻领导力LP学习4条
+**Meeting Date/Time:** 10/12/2021 
 
-**Speaker:**  Isabella, Oliver
+**Speaker:**  Xiuyi 
 
-**Attendees:** Joy, Xiuyi
-
-**Meeting Notes:**
-1) 
-* 
-* 
-2) 
-* 
-
-## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
-**Meeting Date/Time:** 10/07/2021 
-
-**Speaker:**  Isabella, Oliver
-
-**Attendees:** Joy, Xiuyi
+**Attendees:**  Isabella, Oliver
 
 **Meeting Notes:**
 1) 
-* 
-* 
-2) 
-* 
+* Learn and Be Curious 好奇求知
+* Hire and Develop The Best 选育贤能
+* Insist on the Highest Standards 最高标准
+* Think Big 远见卓识
 
-## 021. 1）Isabella复习LB/Consistent Hashing/Partitioning,Sharding 2）Blind 75
+
+## 023. 1） Design Pastebin 2）复习2
+**Meeting Date/Time:** 10/14/2021 
+
+**Speaker:**  Joy，Isabella
+
+**Attendees:** Xiuyi
+
+**Meeting Notes:**
+1) 
+* paste table + user table
+* clean service
+2) 
+* peer to peer / master slave
+* Cahce （缓存淘汰策略，缓存与DB一致性问题 - 先更新DB再删缓存，脏数据最少）
+
+## 024. 1） 2）
 **Meeting Date/Time:** 10/07/2021 
 
 **Speaker:**  Isabella, Oliver
