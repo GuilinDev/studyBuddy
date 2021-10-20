@@ -395,12 +395,82 @@ BQ准备，亚麻领导力准则
 * peer to peer / master slave
 * Cahce （缓存淘汰策略，缓存与DB一致性问题 - 先更新DB再删缓存，脏数据最少）
 
-## 024. 1） 2）
-**Meeting Date/Time:** 10/07/2021 
+## 024. 1）API的设计 2）读书分享 - Working Effectively with Legacy Coding第一章
+**Meeting Date/Time:** 10/19/2021 
 
-**Speaker:**  Isabella, Oliver
+**Speaker:**  Xiuyi, Oliver
 
-**Attendees:** Joy, Xiuyi
+**Attendees:** Joy, Isabella
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 024. 1）API的设计 2）
+**Meeting Date/Time:** 10/19/2021 
+
+**Speaker:**  Xiuyi, Oliver
+
+**Attendees:** Joy, Isabella
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 024. 1）API的设计 2）
+**Meeting Date/Time:** 10/19/2021 
+
+**Speaker:**  Xiuyi, Oliver
+
+**Attendees:** Joy, Isabella
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 024. 1）API的设计 2）
+**Meeting Date/Time:** 10/19/2021 
+
+**Speaker:**  Xiuyi, Oliver
+
+**Attendees:** Joy, Isabella
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 024. 1）API的设计 2）
+**Meeting Date/Time:** 10/19/2021 
+
+**Speaker:**  Xiuyi, Oliver
+
+**Attendees:** Joy, Isabella
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+## 024. 1）API的设计 2）
+**Meeting Date/Time:** 10/19/2021 
+
+**Speaker:**  Xiuyi, Oliver
+
+**Attendees:** Joy, Isabella
 
 **Meeting Notes:**
 1) 
