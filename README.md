@@ -437,12 +437,12 @@ BQ准备，亚麻领导力准则
 2) 
 * 
 
-## 024. 1）API的设计 2）
-**Meeting Date/Time:** 10/19/2021 
+## 027. 1）Mock Job Scheduler 2）Distirbuted Lock
+**Meeting Date/Time:** 10/31/2021 
 
-**Speaker:**  Xiuyi, Oliver
+**Speaker:**  Isabella, Xiuyi
 
-**Attendees:** Joy, Isabella
+**Attendees:** 
 
 **Meeting Notes:**
 1) 
