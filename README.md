@@ -451,19 +451,23 @@ BQ准备，亚麻领导力准则
 2) 
 * 
 
-## 024. 1）API的设计 2）
-**Meeting Date/Time:** 10/19/2021 
+## 028. 1）设计Twitter的补充 2）TopK的设计 3) Multi-threading
+**Meeting Date/Time:** 11/07/2021 
 
-**Speaker:**  Xiuyi, Oliver
+**Speaker:**  Joy, Isabella, Xiuyi
 
-**Attendees:** Joy, Isabella
+**Attendees:** 
 
 **Meeting Notes:**
 1) 
-* 
-* 
+* tweets的Sharding - 雪花算法ID
+* Cache
+* Twitter Search
 2) 
-* 
+* MapReduce
+* Count-min Setch
+3) 
+* 可重入性的问题
 
 ## 024. 1）API的设计 2）
 **Meeting Date/Time:** 10/19/2021 
