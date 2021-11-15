@@ -469,16 +469,53 @@ BQ准备，亚麻领导力准则
 3) 
 * 可重入性的问题
 
-## 024. 1）API的设计 2）
-**Meeting Date/Time:** 10/19/2021 
+## 029. 1）Mock Interview设计Amazon Price Tracker
+**Meeting Date/Time:** 11/14/2021 
 
-**Speaker:**  Xiuyi, Oliver
+**Speaker:**  Xiuyi
 
-**Attendees:** Joy, Isabella
+**Attendees:** Isabella, Joy, Oliver
 
 **Meeting Notes:**
 1) 
-* 
-* 
-2) 
-* 
+Amazon price tracker
+
+1k products
+
+requirements: 
+
+1) grab the prices and store prices somewhere
+
+2) we pop these date to customers
+
+Amazon prices -> services to grab the prices -> to our own stores - > services to fetch data from our stores -> pop up for 
+ASAP for real time for customer needs
+
+1) pay Amazon to use APIs to get data - alternative for others, we may can use crawlers
+
+2) rest/graphQL APIs to get data in our gateway layers - json objects
+
+3) middle ware service to clean/aggregate/cluster data - pre-compute
+
+4) store
+
+shcema:
+
+	Product: productID, categoryID, price, timestamp;
+	
+	Price: ID, productID, Array{{price1, time1},{price2, time2},{price3, time3}...}
+	
+	Category: ID, categoryNames....
+	
+```sql
+Select price From Product Where ProductID = "123" 
+```
+
+5) sevices to grab data and do some computing - pick some products/category,save them in the cache -> speed reading for new customers
+
+6) pop to clients
+
+authozation -> free -> can access some limited resources (e.g, overal category prices change in past three months) vs VIP users (have more accesses to all tracks, like all historical data changes for all produces)
+
+[架构图](/meetingPPT/imgs/029Arch.png)
+
