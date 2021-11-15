@@ -517,5 +517,5 @@ Select price From Product Where ProductID = "123"
 
 authozation -> free -> can access some limited resources (e.g, overal category prices change in past three months) vs VIP users (have more accesses to all tracks, like all historical data changes for all produces)
 
-[架构图](/meetingPPT/imgs/029Arch.png)
+![架构图](/meetingPPT/imgs/029Arch.png)
 
