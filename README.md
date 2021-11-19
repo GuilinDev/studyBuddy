@@ -519,3 +519,16 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 ![架构图](/meetingPPT/imgs/029Arch.png)
 
+## 030. 1）点赞系统 2）Kafka入门图解
+**Meeting Date/Time:** 11/18/2021 
+
+**Speaker:**  Isabella, Xiuyi
+
+**Attendees:** Joy, Oliver
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* kafka不在一个consumer group的消费者怎么消费同一个消息？
