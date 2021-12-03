@@ -532,3 +532,17 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 2) 
 * kafka不在一个consumer group的消费者怎么消费同一个消息？
+
+## 031. 1）Design slack - 0
+**Meeting Date/Time:** 12/02/2021 
+
+**Speaker:**  Xiuyi
+
+**Attendees:** Isabella, Joy, Oliver
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
