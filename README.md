@@ -538,7 +538,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 **Speaker:**  Xiuyi
 
-**Attendees:** Isabella, Joy, Oliver
+**Attendees:** Isabella, Oliver
 
 **Meeting Notes:**
 1) 
@@ -546,3 +546,19 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 2) 
 * 
+
+## 032. 1）Neayby Friend; 2) 点赞系统 - 续 3) Manage up
+**Meeting Date/Time:** 12/05/2021 
+
+**Speaker:**  Joy, Isabella, Xiuyi
+
+**Attendees:** Oliver
+
+**Meeting Notes:**
+1) 
+* Quad Tree
+* 
+2) 
+*
+3)
+*
