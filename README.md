@@ -562,3 +562,20 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 *
 3)
 *
+
+## 033. 1）[Counting system](https://medium.com/pinterest-engineering/building-a-real-time-user-action-counting-system-for-ads-88a60d9c9a
+); 2) GeoHash 
+**Meeting Date/Time:** 12/05/2021 
+
+**Speaker:**  Isabella, Xiuyi
+
+**Attendees:** Joy, Oliver
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
+3)
+*
