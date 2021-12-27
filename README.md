@@ -579,3 +579,19 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 *
 3)
 *
+
+## 034. 1）Partition之前的一些策略; 2) Design Snapchat/instagram Stories 3) DDIA summary - ch 1,2
+**Meeting Date/Time:** 12/05/2021 
+
+**Speaker:**  Joy, Isabella, Xiuyi
+
+**Attendees:** Jasmine
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
+3)
+*
