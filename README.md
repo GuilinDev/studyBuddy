@@ -610,3 +610,16 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2) 
 *
 
+## 036. 1）Design What's up app - leftover 2) DDIA ch 3
+**Meeting Date/Time:** 01/02/2022
+
+**Speaker:**   Isabella, Xiuyi
+
+**Attendees:** 
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
