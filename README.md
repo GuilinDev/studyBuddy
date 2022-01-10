@@ -615,7 +615,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 **Speaker:**   Isabella, Xiuyi
 
-**Attendees:** 
+**Attendees:** Joy, Oliver, Jasmine
 
 **Meeting Notes:**
 1) 
