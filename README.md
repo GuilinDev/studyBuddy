@@ -623,3 +623,19 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 2) 
 *
+
+## 037. 1）DDIA ch 4 2) In Memory DB 3) Design Leetcode
+**Meeting Date/Time:** 01/16/2022
+
+**Speaker:** Xiuyi, Nick, Isabella
+
+**Attendees:** Joy
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
+3)
+* 
