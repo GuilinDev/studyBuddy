@@ -638,4 +638,20 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2) 
 *
 3)
+
+
+## 038. 1）Twitter Architecture
+**Meeting Date/Time:** 01/23/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:** Jasmine, Nick, Isabella, Oliver
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
+3)
 * 
