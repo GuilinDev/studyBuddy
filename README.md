@@ -654,4 +654,20 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2) 
 *
 3)
+
+
+## 039. 1）Zero Copy 2) Apache Flink 3)
+**Meeting Date/Time:** 01/23/2022
+
+**Speaker:** Xiuyi, Isabella, Oli
+
+**Attendees:** Jasmine, Nick, Joy
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
+3)
 * 
