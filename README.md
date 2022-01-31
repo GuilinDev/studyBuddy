@@ -656,7 +656,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 3)
 
 
-## 039. 1）Zero Copy 2) Apache Flink 3)
+## 039. 1）Zero Copy 2) Apache Flink 3) Cost Efficiency @ Scale in Big data File Format
 **Meeting Date/Time:** 01/23/2022
 
 **Speaker:** Xiuyi, Isabella, Oli
@@ -668,6 +668,8 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 * 
 2) 
-*
+* https://developer.aliyun.com/article/666052?spm=a2c6h.13262185.0.0.4c7b7e18EzjqIJ
+
 3)
-* 
+* https://eng.uber.com/cost-efficiency-big-data/
+
