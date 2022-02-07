@@ -673,3 +673,20 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 3)
 * https://eng.uber.com/cost-efficiency-big-data/
 
+## 040. 1）即时通讯系统y 2) SQL to NoSQL 3) WebAssembly
+**Meeting Date/Time:** 01/23/2022
+
+**Speaker:** Nick, Joy, Xiuyi
+
+**Attendees:** Jasmine, Vickie, Isabella, Oli
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+3)
+* 
+
