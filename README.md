@@ -657,7 +657,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 
 ## 039. 1）Zero Copy 2) Apache Flink 3) Cost Efficiency @ Scale in Big data File Format
-**Meeting Date/Time:** 01/23/2022
+**Meeting Date/Time:** 01/30/2022
 
 **Speaker:** Xiuyi, Isabella, Oli
 
@@ -674,11 +674,28 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * https://eng.uber.com/cost-efficiency-big-data/
 
 ## 040. 1）即时通讯系统y 2) SQL to NoSQL 3) WebAssembly
-**Meeting Date/Time:** 01/23/2022
+**Meeting Date/Time:** 02/06/2022
 
-**Speaker:** Nick, Joy, Xiuyi
+**Speaker:** Nick, Joy
 
-**Attendees:** Jasmine, Vickie, Isabella, Oli
+**Attendees:** Jasmine, Vickie, Isabella, Oli, Xiuyi
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+3)
+
+
+## 040. 1） 2)  3) 
+**Meeting Date/Time:** 02/10/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:** Jasmine, Vickie, Isabella, Oli, Nick, Joy, 
 
 **Meeting Notes:**
 1) 
