@@ -690,12 +690,12 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 3)
 
 
-## 040. 1） 2)  3) 
+## 040. 1）Webassembly
 **Meeting Date/Time:** 02/10/2022
 
 **Speaker:** Xiuyi
 
-**Attendees:** Jasmine, Vickie, Isabella, Oli, Nick, Joy, 
+**Attendees:** Jasmine, Vickie, Isabella, Oli, Nick, Joy, wenruo
 
 **Meeting Notes:**
 1) 
