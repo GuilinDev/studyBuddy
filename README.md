@@ -707,3 +707,19 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 3)
 * 
 
+## 042. 1）Apache Beam
+**Meeting Date/Time:** 02/20/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:** Jasmine, Isabella, Oli, Nick, Joy, wenruo
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+
+3)
+* 
