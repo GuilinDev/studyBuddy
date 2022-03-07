@@ -716,7 +716,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 **Meeting Notes:**
 1) 
-* 
+* Python版本的'|'问题，应该是语法糖两个进程通信，而不是位操作的或操作
 * 
 2) 
 * 
@@ -736,5 +736,21 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 * 
 2) 
+
+
+## 044. 1）DDIA Ch 5 2) SP and Trigger 3) MVND
+**Meeting Date/Time:** 03/06/2022
+
+**Speaker:** Nick, Joy, Xiuyi
+
+**Attendees:** Wenruo, Isabella, Xiuyi, Jasmine, Vickie
+
+**Meeting Notes:**
+1) 
+* Kafka从2.4版本开始可以从followers中读取数据，之前版本只能从leader中读；正常的数据库一般是leader只负责写入
+* WAL vs binlog
+2) 
+*
+3)
 * 
 
