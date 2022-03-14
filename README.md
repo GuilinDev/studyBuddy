@@ -738,7 +738,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2) 
 
 
-## 044. 1）DDIA Ch 5 2) SP and Trigger 3) MVND
+## 044. 1）DDIA Ch 5 - 1 2) SP and Trigger 3) MVND
 **Meeting Date/Time:** 03/06/2022
 
 **Speaker:** Nick, Joy, Xiuyi
@@ -749,6 +749,22 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 1) 
 * Kafka从2.4版本开始可以从followers中读取数据，之前版本只能从leader中读；正常的数据库一般是leader只负责写入
 * WAL vs binlog
+2) 
+*
+3)
+
+
+## 045. 1）DDIA Ch 5 - 2 2) Lyft Beam 
+**Meeting Date/Time:** 03/13/2022
+
+**Speaker:** Ning, Xiuyi
+
+**Attendees:** Yu, Xiuyi, Wenruo, Isabella, Jasmine, Vickie
+
+**Meeting Notes:**
+1) 
+* 
+* 
 2) 
 *
 3)
