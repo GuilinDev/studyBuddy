@@ -724,7 +724,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 3)
 * 
 
-## 043. 1）FB Outage on 10/04/2021 2) Idempotency 
+## 043. 1）FB Outage on 10/04/2021 2) Idempotency - 上
 **Meeting Date/Time:** 02/27/2022
 
 **Speaker:** Wenruo, Isabella
@@ -770,19 +770,21 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 3)
 
 
-## 046. 1） 2) 
+## 046. 1）Docker - 上 2) Idempotency - 下
 **Meeting Date/Time:** 03/20/2022
 
-**Speaker:** 
+**Speaker:** Xiuyi, Isabella， 
 
-**Attendees:** Ning, Xiuyi, Yu, Xiuyi, Wenruo, Isabella, Jasmine, Vickie
+**Attendees:** Ning,  Yu, Xiuyi, Wenruo, , Jasmine, Vickie
 
 **Meeting Notes:**
 1) 
 * 
 * 
 2) 
-*
+* pre-PRC, rpc, post-RPC transaction最后一个步骤失败了怎么办？
+* Transaction的操作顺序问题
+* master和replicas在payments中同步问题
 3)
 * 
 
