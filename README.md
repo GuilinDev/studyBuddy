@@ -768,5 +768,21 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2) 
 *
 3)
+
+
+## 046. 1） 2) 
+**Meeting Date/Time:** 03/20/2022
+
+**Speaker:** 
+
+**Attendees:** Ning, Xiuyi, Yu, Xiuyi, Wenruo, Isabella, Jasmine, Vickie
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+*
+3)
 * 
 
