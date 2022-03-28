@@ -786,5 +786,21 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * Transaction的操作顺序问题
 * master和replicas在payments中同步问题
 3)
+
+
+## 047. 1）Inorder 2) clean code 3) Payment system - 上
+**Meeting Date/Time:** 03/27/2022
+
+**Speaker:** Wenruo, Oli Xiuyi
+
+**Attendees:** Ning, Yu, Joy, Isa, Jasmine
+
+**Meeting Notes:**
+1) 
+* 
+* 
+2) 
+* 
+3)
 * 
 
