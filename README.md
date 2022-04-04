@@ -802,5 +802,18 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2) 
 * 
 3)
+
+
+## 048. 1）Inorder Payment system - 下
+**Meeting Date/Time:** 04/03/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:** Yu, Joy, Isa, Jasmine, Wenruo, Oli
+
+**Meeting Notes:**
+1) 
+* 是否可以将Kafka的partition指定给consumer消费？
 * 
+
 
