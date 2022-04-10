@@ -816,7 +816,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 是否可以将Kafka的partition指定给consumer消费？
 * 
 
-## 048. 1）Inorder Payment system - 下
+## 049. 1）2)
 **Meeting Date/Time:** 04/10/2022
 
 **Speaker:** 
@@ -831,5 +831,5 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 **Meeting Notes:**
 1) 
-* 是否可以将Kafka的partition指定给consumer消费？
+* 
 * 
