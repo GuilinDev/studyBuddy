@@ -823,7 +823,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 
 **Attendees:** Xiuyi, Yu, Joy, Isa, Jasmine, Wenruo, Oli
 
-**BQ topics:**
+**BQ topics - customer obsession**
 * Who was your most difficult customer?
 * Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?
 * When you’re working with a large number of customers, it’s tricky to deliver excellent service to them all. How do you go about prioritizing your customers’ needs?
