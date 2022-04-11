@@ -816,12 +816,12 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 是否可以将Kafka的partition指定给consumer消费？
 * 
 
-## 049. 1）2)
+## 049. 1）PostgresSQL 2) Webhooks
 **Meeting Date/Time:** 04/10/2022
 
-**Speaker:** 
+**Speaker:** Isabela Xiuyi
 
-**Attendees:** Xiuyi, Yu, Joy, Isa, Jasmine, Wenruo, Oli
+**Attendees:** Yu, Jasmine, Wenruo, Yibo, Vickie
 
 **BQ topics - customer obsession**
 * Who was your most difficult customer?
