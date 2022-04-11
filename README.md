@@ -816,4 +816,20 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 是否可以将Kafka的partition指定给consumer消费？
 * 
 
+## 049. 1）PostgresSQL 2) Webhooks
+**Meeting Date/Time:** 04/10/2022
 
+**Speaker:** Isabela Xiuyi
+
+**Attendees:** Yu, Jasmine, Wenruo, Yibo, Vickie
+
+**BQ topics - customer obsession**
+* Who was your most difficult customer?
+* Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?
+* When you’re working with a large number of customers, it’s tricky to deliver excellent service to them all. How do you go about prioritizing your customers’ needs?
+* Tell the story of the last time you had to apologize to someone.
+
+**Meeting Notes:**
+1) 
+* 
+* 
