@@ -833,3 +833,17 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 1) 
 * 
 * 
+
+## 050. 1） 2) 
+**Meeting Date/Time:** 04/10/2022
+
+**Speaker:** 
+
+**Attendees:** Isabela, Xiuyi, Yu, Jasmine, Wenruo, Yibo, Vickie
+
+**Meeting Notes:**
+1) 
+* 
+2) 
+* 
+* 
