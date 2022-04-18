@@ -834,16 +834,14 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 * 
 
-## 050. 1） 2) 
+## 050. 1）TCP - DB connections
 **Meeting Date/Time:** 04/10/2022
 
 **Speaker:** 
 
-**Attendees:** Isabela, Xiuyi, Yu, Jasmine, Wenruo, Yibo, Vickie
+**Attendees:** Isabela, Xiuyi, Yu, Jasmine, Wei, Yibo, Vickie
 
 **Meeting Notes:**
 1) 
-* 
-2) 
-* 
+* RST ARK
 * 
