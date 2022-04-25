@@ -835,7 +835,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 
 ## 050. 1）TCP - DB connections
-**Meeting Date/Time:** 04/10/2022
+**Meeting Date/Time:** 04/17/2022
 
 **Speaker:** 
 
@@ -844,4 +844,17 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 **Meeting Notes:**
 1) 
 * RST ARK
+
+
+## 051. 1）支持亿级流量的高并发IM架构 2) OpenAPI简介
+**Meeting Date/Time:** 04/24/2022
+
+**Speaker:** Yu, Xiuxi
+
+**Attendees:** Isabela, Jasmine, Wei, Wenruo, Nick, Oli
+
+**Meeting Notes:**
+1) 
 * 
+2)
+* resources
