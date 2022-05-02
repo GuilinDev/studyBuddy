@@ -858,3 +858,16 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 2)
 * resources
+
+## 051. 1）Learning OAuth2.0 2) DDIA Chapter 6
+**Meeting Date/Time:** 04/24/2022
+
+**Speaker:** Wei, Nick
+
+**Attendees:** Yu, Xiuxi, Isabela, Jasmine, Yibo, Wenruo, Oli
+
+**Meeting Notes:**
+1) 
+* 
+2)
+* resources
