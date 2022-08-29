@@ -871,3 +871,58 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 * 
 2)
 * resources
+
+## XXX 1) Design chat system. 
+**Meeting Date/Time:** 08/28/2022
+
+**Speaker:** Joy 
+
+**Attendees:** Yu, Xiuxi, Isabela, Jasmine, Yibo, Wenruo, Oli
+
+**Meeting Notes:**
+1) Meeting Notes:
+Types of connections:
+1. short polling; (close right after response)
+2.long polling; (long and will timeout)
+3.WebSocket. (Bi-directional and persistent)
+High-level design:
+Stateless:
+User > LB > services (AMI, Service discovery, User service, Group service)
+Stateful:
+via WS
+Storage:
+KV stores 用于水平scaling
+KV store 低延迟。
+关系型搞不定长尾问题。索引也是坑的一笔。
+Table 设计:
+dbo.[message] dbo.[group_message]
+只要保证group范围内ID唯一，即可躺平。
+
+2) 1.Message 1 to 1 chat workflows,
+重点是有个message queue。面向消息队列编程。
+2. 如何跨设备同步，实现统一通信？
+手机PC（都记录各自收到哪一条了）然后都通过Chat Server1的session来catch up。
+3. Small Group chat workflow：
+重点是有message queue，
+发是发给queue，
+收也是收那个queue。
+4. Online Presence如何隐身
+5s一个heartbeat，30s就当他掉了。
+PS: WB开销很大，只考虑建立给active chatting，timeout即可回收资源。
+
+3) Meeting Note三
+1.Online Status fanout
+Pub-sub模式
+更新在线状态非常昂贵，让他们自己手动pull？
+Wrap up
+加分题：
+1.支持文字以外的多媒体。
+2.端到端加密。小心老旧机型性能问题。。。
+3.Caching。历史数据本地存着？
+3. 关系数据库可以存下用户，setting等比较stable的基本数据（靠谱便于维护）。但是像一条条的即时消息，必须上KV store。
+4.服务发现
+PS：面试时把replica放在back pocket就好。太细节不用摆在桌面。
+PS：拜占庭共识？？？
+* 
+
+* resources
