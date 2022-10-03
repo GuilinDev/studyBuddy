@@ -872,7 +872,7 @@ authozation -> free -> can access some limited resources (e.g, overal category p
 2)
 * resources
 
-## XXX 1) Design chat system. 
+## 053 1) Design chat system. 
 **Meeting Date/Time:** 08/28/2022
 
 **Speaker:** Joy 
@@ -926,3 +926,33 @@ PS：拜占庭共识？？？
 * 
 
 * resources
+
+## 056. 1）Jeopardy Game
+**Meeting Date/Time:** 09/25/2022
+
+**Speaker:** XiuYi
+
+**Attendees:** Yu, Wei, Isabela, Vickie, Joy, Yibo, Oli, O.O, Wen, Ju, zhengda
+
+**Meeting Notes:**
+1) 
+* [Jeopardy Game 1](https://jeopardylabs.com/play/2022-09-24-222)
+
+1. Num!
+Isabella
+Ju
+
+2. Top1
+Joy
+Zhengda
+
+3. 找工作
+Wei
+Wen
+Yuan
+
+4. YYV
+Yu
+Yibo
+Vickie
+
