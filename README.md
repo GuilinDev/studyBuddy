@@ -956,12 +956,12 @@ Yu
 Yibo
 Vickie
 
-## 057. 1）Design Web Crawler 2) 
+## 067. 1）Design Web Crawler 2) 
 **Meeting Date/Time:** 10/02/2022
 
 **Speaker:** Zhengda Wu
 
-**Attendees:** Yu, Wei, Isabela, Guilin, Yibo, Oli, Ning, Joy
+**Attendees:** Yu, Wei, Isabela, Guilin, Yibo, Oli, Ning, Joy, Yuan
 
 **Meeting Notes:**
 1) Design a web crawler （搜索引擎）
@@ -977,3 +977,22 @@ Vickie
 * crawler在背后一直run，起点是什么？ - 有一些种子links，公司自己定；
 * 热门网站如何决定 - 热门网站放在queues里面（deep dive）
 * 反爬机制 - 文件/协议
+
+## 068. 1）Design Web Crawler - 上 2) 
+**Meeting Date/Time:** 10/09/2022
+
+**Speaker:** Joy, Ding
+
+**Attendees:** Yu, Wei, Isabela, Guilin, Ning, Yuan, Zhengda，Oli
+
+**Meeting Notes:**
+1) Design a web crawler 
+* 种子URLs - 根据场景来选择
+* 准备download的 - URL frontier
+* content比较防止重爬 - 文字比对效率太低，利用Hashing结果来对比，MD5比较慢，MurmurHash或者JenkinsHash可用，Lucene用的Lookup3Signature（by JenkinsHash）
+* 比对hashing结果非常相近的时候，是否存两次或相同对待；只存关键词和links - fingerprints
+* Inverted Indices - 索引关键词，部分网页存cache大部分不存网页本身内容（no content storage）
+* 
+2) Ding Q&A
+* 国内国外工作最大的不同 - 科技类公司，国内工作怕普遍强度高很多
+* 
