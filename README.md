@@ -956,3 +956,24 @@ Yu
 Yibo
 Vickie
 
+## 057. 1）Design Web Crawler 2) 
+**Meeting Date/Time:** 10/02/2022
+
+**Speaker:** Zhengda Wu
+
+**Attendees:** Yu, Wei, Isabela, Guilin, Yibo, Oli, Ning, Joy
+
+**Meeting Notes:**
+1) Design a web crawler （搜索引擎）
+* 如何防止死循环
+* MapReduce
+* NoSQL存储
+* 抓取的数据隔一段时间不同如何处理？ - timestamp
+* PageRank
+* Load Balancer算法
+* 缓存的地方（浏览器。redis，数据库层， CDN， Application）
+* Web Server/API Server
+* 分布式爬虫? 数以亿计的网站
+* crawler在背后一直run，起点是什么？ - 有一些种子links，公司自己定；
+* 热门网站如何决定 - 热门网站放在queues里面（deep dive）
+* 反爬机制 - 文件/协议
