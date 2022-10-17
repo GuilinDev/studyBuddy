@@ -996,3 +996,16 @@ Vickie
 2) Ding Q&A
 * 国内国外工作最大的不同 - 科技类公司，国内工作怕普遍强度高很多
 * 
+
+## 069. 1）Prometueus理解和实战
+**Meeting Date/Time:** 10/16/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabela, Oli, Ning, Ding, Zhengda
+
+**Meeting Notes:**
+1) Prometheus + Grafana + SpringBoot
+* 联邦监控
+* tombstones文件
+* Prometheus高级功能
