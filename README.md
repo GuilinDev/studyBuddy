@@ -1009,3 +1009,19 @@ Vickie
 * 联邦监控
 * tombstones文件
 * Prometheus高级功能
+
+## 070. 1）Design Web Crawler
+**Meeting Date/Time:** 10/23/2022
+
+**Speaker:** Joy
+
+**Attendees:**  Isabela, Xiuyi, Oli, Ning, Ding, Zhengda
+
+**Meeting Notes:**
+1) Design Web Crawler - 下
+* DFS vs BFS
+* Queue Selector - 设定优先级
+* 防扒机制 - 大网站
+* 不同domain但内容相同 - filter
+* Spider Traps - 黑名单
+* 两个queues存放问题
