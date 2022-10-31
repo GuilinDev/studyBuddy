@@ -1010,7 +1010,7 @@ Vickie
 * tombstones文件
 * Prometheus高级功能
 
-## 070. 1）Design Web Crawler
+## 070. 1）Design Web Crawler - 下 
 **Meeting Date/Time:** 10/23/2022
 
 **Speaker:** Joy
@@ -1025,3 +1025,15 @@ Vickie
 * 不同domain但内容相同 - filter
 * Spider Traps - 黑名单
 * 两个queues存放问题
+
+
+## 070. 1）Review Consistent Hashing 和 KV store
+**Meeting Date/Time:** 10/30/2022
+
+**Speaker:** Joy
+
+**Attendees:**  Isabela, Xiuyi, Ning, Yu, Wei, Zhengda, Oli
+
+**Meeting Notes:**
+1) 
+* 
