@@ -1027,7 +1027,7 @@ Vickie
 * 两个queues存放问题
 
 
-## 070. 1）Review Consistent Hashing 和 KV store
+## 071. 1）Review Consistent Hashing 和 KV store
 **Meeting Date/Time:** 10/30/2022
 
 **Speaker:** Joy
@@ -1037,3 +1037,14 @@ Vickie
 **Meeting Notes:**
 1) 
 * 
+
+## 072. 1）Prometueus告警实战
+**Meeting Date/Time:** 11/13/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabela, Oli, Ning, Yu, Zhengda, Joy
+
+**Meeting Notes:**
+1) Prometheus + Grafana + Kafka
+* SlackBot token
