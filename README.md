@@ -1048,3 +1048,14 @@ Vickie
 **Meeting Notes:**
 1) Prometheus + Grafana + Kafka
 * SlackBot token
+* 
+## 073. 1）如何画架构图 - C4 Model
+**Meeting Date/Time:** 11/20/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabela, Wei, Yuan, Yu, Joy, Oli
+
+**Meeting Notes:**
+1) 
+* 通常我们会到container（起始）和component（局部展开）这两层
