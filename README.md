@@ -1059,3 +1059,14 @@ Vickie
 **Meeting Notes:**
 1) 
 * 通常我们会到container（起始）和component（局部展开）这两层
+
+## 074. 1）Design Metrics and Alerting System
+**Meeting Date/Time:** 12/04/2022
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabela, Wei, Ning, Yu, Joy, Oli, Zhengda
+
+**Meeting Notes:**
+1)
+* 
