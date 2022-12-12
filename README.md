@@ -1069,4 +1069,13 @@ Vickie
 
 **Meeting Notes:**
 1)
-* 
+
+## 075. 1）DDIA - Chapter 3 Storage and Retrieval
+**Meeting Date/Time:** 12/11/2022
+
+**Speaker:** Wei
+
+**Attendees:**  Isabela, XiuYi, Ning, Yuan, Joy, Oli, Zhengda
+
+**Meeting Notes:**
+1) [DDIA第三章笔记](https://github.com/GuilinDev/Notes/blob/master/SystemDesign/DDIA_Chapter03_Notes.md
