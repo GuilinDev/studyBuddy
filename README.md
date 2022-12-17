@@ -1078,4 +1078,4 @@ Vickie
 **Attendees:**  Isabela, XiuYi, Ning, Yuan, Joy, Oli, Zhengda
 
 **Meeting Notes:**
-1) [DDIA第三章笔记](https://github.com/GuilinDev/Notes/blob/master/SystemDesign/DDIA_Chapter03_Notes.md
+1) [DDIA第三章笔记](https://github.com/GuilinDev/Notes/blob/master/SystemDesign/DDIA_Chapter03_Notes.md)
