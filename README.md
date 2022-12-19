@@ -1079,3 +1079,16 @@ Vickie
 
 **Meeting Notes:**
 1) [DDIA第三章笔记](https://github.com/GuilinDev/Notes/blob/master/SystemDesign/DDIA_Chapter03_Notes.md)
+
+## what is clustered index?
+
+## 076. 1）RDBMS Index
+**Meeting Date/Time:** 12/18/2022
+
+**Speaker:** XiuYi
+
+**Attendees:**  Isabela, Wei, Ning, Yu
+
+**Meeting Notes:**
+1) 
+
