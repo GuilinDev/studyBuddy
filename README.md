@@ -1090,5 +1090,65 @@ Vickie
 **Attendees:**  Isabela, Wei, Ning, Yu
 
 **Meeting Notes:**
-1) 
+1) Index的创建和使用
+```sql
+-- 创建Person表
+SHOW DATABASES;
+USE testdb;
+
+drop table IF EXISTS `person`;
+create TABLE `person`
+(
+    `id`          bigint(20)   NOT NULL AUTO_INCREMENT,
+    `name`        varchar(255) NOT NULL,
+    `score`       int(11)      NOT NULL,
+    `create_time` timestamp    NOT NULL,
+    PRIMARY KEY (`id`),
+    KEY `name_score` (`name`, `score`) USING BTREE,
+    KEY `create_time` (`create_time`) USING BTREE
+) ENGINE = InnoDB
+  DEFAULT CHARSET = utf8mb4;
+
+-- 在本地机器上，循环sp创建100K测试数据，with MySQL8.0.31
+-- maintain cost
+create
+    DEFINER = `root`@`localhost` PROCEDURE `insert_person`()
+begin
+    declare c_id integer default 1;
+    while c_id <= 100000
+        do
+            insert into person values (c_id, concat('name', c_id), c_id + 100, date_sub(NOW(), interval c_id second));
+            set c_id = c_id + 1;
+        end while;
+end;
+
+
+-- space cost
+select round(((DATA_LENGTH) / 1024 / 1024), 3)  `Data size in MB`,
+       round(((INDEX_LENGTH) / 1024 / 1024), 3) `Index size in MB`
+from information_schema.TABLES
+where TABLE_NAME = 'person';
+-- retrieves rows from a table using an index cost
+explain select * from person where NAME = 'name1';
+explain select NAME, SCORE from person where NAME = 'name1';
+
+-- 索引匹配列前缀
+EXPLAIN SELECT * FROM person WHERE NAME LIKE '%name123' LIMIT 100; -- not use index
+EXPLAIN SELECT * FROM person WHERE NAME LIKE 'name123%' LIMIT 100; -- use index
+-- where后的条件语句
+EXPLAIN SELECT * FROM person WHERE LENGTH(NAME) = 7;
+
+-- Joint Index只用一个
+EXPLAIN SELECT * FROM person WHERE SCORE > 45678; -- not use index
+EXPLAIN SELECT * FROM person WHERE NAME LIKE 'NAME45%'; -- use index
+EXPLAIN SELECT * FROM person WHERE SCORE > 45678 AND NAME LIKE 'NAME45%'; -- use index
+
+SHOW TABLE STATUS LIKE 'person';
+
+-- check places for optimization
+SET optimizer_trace="enabled=on";
+SELECT * FROM person WHERE NAME >'name84059' AND create_time>'2022-12-17 15:00:00';
+SELECT * FROM information_schema.OPTIMIZER_TRACE;
+SET optimizer_trace="enabled=off";
+``````
 
