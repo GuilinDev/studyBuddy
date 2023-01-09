@@ -1152,3 +1152,12 @@ SELECT * FROM information_schema.OPTIMIZER_TRACE;
 SET optimizer_trace="enabled=off";
 ``````
 
+## 077. 1）AWS Services
+**Meeting Date/Time:** 01/08/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabela, Wei, Ning, Yu, Joy, Oli, Zhengda, Jasmine
+
+**Meeting Notes:**
+1) AWS Continuous Deploy
