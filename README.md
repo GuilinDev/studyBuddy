@@ -1160,4 +1160,13 @@ SET optimizer_trace="enabled=off";
 **Attendees:**  Isabela, Wei, Ning, Yu, Joy, Oli, Zhengda, Jasmine
 
 **Meeting Notes:**
-1) AWS Continuous Deploy
+1) Proximity Service (Yelp)
+## 078. 1）AWS Services
+**Meeting Date/Time:** 01/15/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Isabela, Wei, Ning, Yu, Xiuyi, Oli
+
+**Meeting Notes:**
+1) 
