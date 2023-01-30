@@ -1160,13 +1160,27 @@ SET optimizer_trace="enabled=off";
 **Attendees:**  Isabela, Wei, Ning, Yu, Joy, Oli, Zhengda, Jasmine
 
 **Meeting Notes:**
-1) Proximity Service (Yelp)
-## 078. 1）AWS Services
-**Meeting Date/Time:** 01/15/2023
+1) geohash vs google s2 vs quadra tree
+
+
+## 078. 1）Proximity Service
+**Meeting Date/Time:** 01/22/2023
 
 **Speaker:** Joy
 
 **Attendees:**  Isabela, Wei, Ning, Yu, Xiuyi, Oli
 
 **Meeting Notes:**
-1) 
+1) Proximity Service (Yelp)
+2) 
+
+## 079. 1）Nearby Friends/People within x miles
+**Meeting Date/Time:** 01/29/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Isabela, Wei, Ning, Yu, Xiuyi, Zhengda, Oli
+
+**Meeting Notes:**
+1) peer to peer vs shared backend
+2) service discovery
