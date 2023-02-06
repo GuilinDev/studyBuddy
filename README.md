@@ -1184,3 +1184,19 @@ SET optimizer_trace="enabled=off";
 **Meeting Notes:**
 1) peer to peer vs shared backend
 2) service discovery
+
+## 080. 1）DDIA - Chapter 5 Replication
+**Meeting Date/Time:** 02/05/2023
+
+**Speaker:** Wei
+
+**Attendees:**  Joy, Isabela,  Ning, Yu, Xiuyi, Zhengda, Oli
+
+**Meeting Notes:**
+1) Leaders and Followers replication
+2) Single Leader replication Logs: Statement based logging; Write ahead logging(WAL); logical (row based) logging; Trigger based logging
+3) Multi-leader replication: Performance; Conflict resolution;  Network;
+  * Conflict-free replicated data types (CRDTs);
+  * Mergeable persistent data structures (MPDSs);
+  * Operational transformation (OT);
+4) Leaderless replication: 
