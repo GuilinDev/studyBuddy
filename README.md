@@ -1200,3 +1200,17 @@ SET optimizer_trace="enabled=off";
   * Mergeable persistent data structures (MPDSs);
   * Operational transformation (OT);
 4) Leaderless replication: 
+
+## 081. 1）Review System Design basics
+**Meeting Date/Time:** 02/12/2023
+
+**Speaker:** Isabela
+
+**Attendees:**  Joy, Yu, Xiuyi, Zhengda, Oli
+
+**Meeting Notes:**
+1) Load Balancer - Least connection/Least response time/Least Bandwidth/Least Packets/Round Robin/Weighted Round Robin/IP Hash/URL Hash
+2) Cache - Client side cache/CDN/Server side cache, Global cache/Distributed Cache (with Request Cache), Local cache
+  * Cache Invalidation - Write through (Cache and DB sametime)/Write Around (Write only DB)/Write Back (Write Cache first and then DB)/Cache Aside (Read from Cache first, if not found, read from DB and then write to Cache)
+  * Cache Eviction - FIFO/LIFO/LRU/LFU/MRU/RR
+  * 先更新数据库再更新缓存 vs 先删除缓存再更新数据库 vs 先更新数据库再删除缓存 （根据不用的use cases来选择）
