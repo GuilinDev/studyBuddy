@@ -1224,5 +1224,5 @@ SET optimizer_trace="enabled=off";
 
 **Meeting Notes:**
 1) Container - hotfix mechanism; which to control this process
-2) Docker uses LCOW (not LXC, LCOW refers Hyper-V) to run Linux containers on Windows 
+2) Docker uses Linux Container on Windows - LCOW (not Linux Container - LXC, LCOW refers Hyper-V) to run Linux containers on Windows 
 2) TODO: K8S
