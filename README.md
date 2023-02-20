@@ -1214,3 +1214,15 @@ SET optimizer_trace="enabled=off";
   * Cache Invalidation - Write through (Cache and DB sametime)/Write Around (Write only DB)/Write Back (Write Cache first and then DB)/Cache Aside (Read from Cache first, if not found, read from DB and then write to Cache)
   * Cache Eviction - FIFO/LIFO/LRU/LFU/MRU/RR
   * 先更新数据库再更新缓存 vs 先删除缓存再更新数据库 vs 先更新数据库再删除缓存 （根据不用的use cases来选择）
+
+## 082. 1）Docker Full Course 101
+**Meeting Date/Time:** 02/19/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Joy, Yu, Xiuyi, Ning, Zhengda, Oli, Jasmine, Isabella
+
+**Meeting Notes:**
+1) Container - hotfix mechanism; which to control this process
+2) Docker uses LCOW (not LXC, but refers Hyper-V) to run Linux containers on Windows 
+2) TODO: K8S
