@@ -1220,9 +1220,34 @@ SET optimizer_trace="enabled=off";
 
 **Speaker:** Xiuyi
 
-**Attendees:**  Joy, Yu, Xiuyi, Ning, Zhengda, Oli, Jasmine, Isabella
+**Attendees:**  Joy, Yu, Ning, Zhengda, Oli, Jasmine, Isabella
 
 **Meeting Notes:**
 1) Container - hotfix mechanism; which to control this process
 2) Docker uses Linux Container on Windows - LCOW (not Linux Container - LXC, LCOW refers Hyper-V) to run Linux containers on Windows 
 2) TODO: K8S
+
+## 083. 1）Google Map (from Alex Xu)
+**Meeting Date/Time:** 02/26/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Joy, Yu, Xiuyi, Ning, Oli, Jasmine, Isabella
+
+**Meeting Notes:**
+1) Functional Requirements: User location service, Navigation service including ETA, Map redering
+2) Non-functional Requirements: Accuracy, Smoothness, Data and Battery usage, General Availability and scalability
+3) Map 101: Geocoding vs Reverse Geocoding; Geohashing, Map rendering (Hirachical routing tiles: zoom in/out, 4个方向，小块为4的n次方)
+4) Road data processing for navigation service: Dijistra algorithm, A* algorithm
+5) Google Map Architecture: 
+  * Frontend: Map rendering, Navigation, Search, User location service
+  * Backend: Map data, Navigation data, Search data, User location data
+  * Map data: Map tiles, Map features, Map labels, Map images
+  * **Navigation Service**: Navigation routes, Navigation labels, Navigation images
+  * Search data: Search index, Search labels, Search images
+  * **User location Service**: User location, User location labels, User location images
+  * CDN for location service
+6) Data Models: Routing tiles/Object DB(s3), , user location data/column based(cassandra), geocoding data路的信息/redis, map tiles图片信息
+7) Shortest-path service - A* algorithm, BFS
+8) ETA service, Ranking service, Updator service
+9) Delivery protocol: Websocket, Server-Send Events(SSE)
