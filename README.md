@@ -1251,3 +1251,28 @@ SET optimizer_trace="enabled=off";
 7) Shortest-path service - A* algorithm, BFS
 8) ETA service, Ranking service, Updator service
 9) Delivery protocol: Websocket, Server-Send Events(SSE)
+
+## 084. 1）Learn Design Patterns
+**Meeting Date/Time:** 02/26/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Yu, Xiuyi, Isabella, Ruichen, Zhengda, Joy, Ning, Oli
+
+**Meeting Notes:**
+1) SOLID
+2) Proxy Pattern
+3) Command Pattern
+
+## 085. 1）Cache
+**Meeting Date/Time:** 02/26/2023
+
+**Speaker:** Isabella
+
+**Attendees:**  Yu, Xiuyi, Zhengda, Ning, Joy
+
+**Meeting Notes:**
+1) Recovery Time Objective (RTO) vs Recovery Point Objective (RPO)
+2) Weak consistency vs Strong consistency
+3) Reverse Proxy vs Forward Proxy
+4) Redis vs Other in-memory cache
