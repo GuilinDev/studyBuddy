@@ -1276,3 +1276,4 @@ SET optimizer_trace="enabled=off";
 2) Weak consistency vs Strong consistency
 3) Reverse Proxy vs Forward Proxy
 4) Redis vs Other in-memory cache
+5) [supplement](https://blog.bytebytego.com/p/a-crash-course-in-caching-part-1)
