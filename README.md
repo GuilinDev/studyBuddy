@@ -1253,7 +1253,7 @@ SET optimizer_trace="enabled=off";
 9) Delivery protocol: Websocket, Server-Send Events(SSE)
 
 ## 084. 1）Learn Design Patterns
-**Meeting Date/Time:** 02/26/2023
+**Meeting Date/Time:** 03/05/2023
 
 **Speaker:** Joy
 
@@ -1265,7 +1265,7 @@ SET optimizer_trace="enabled=off";
 3) Command Pattern
 
 ## 085. 1）Cache
-**Meeting Date/Time:** 02/26/2023
+**Meeting Date/Time:** 03/12/2023
 
 **Speaker:** Isabella
 
@@ -1276,4 +1276,16 @@ SET optimizer_trace="enabled=off";
 2) Weak consistency vs Strong consistency
 3) Reverse Proxy vs Forward Proxy
 4) Redis vs Other in-memory cache
-5) [supplement](https://blog.bytebytego.com/p/a-crash-course-in-caching-part-1)
+5) [supplement - Crash cource in Caching](https://blog.bytebytego.com/p/a-crash-course-in-caching-part-1)
+
+## 085. 1）Kubernetes 101 - 0
+**Meeting Date/Time:** 03/19/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabella, Yu, Zhengda, Ning, Joy
+
+**Meeting Notes:**
+1) Is K8s Node same as distributed system Node?
+2) How do K8s nodes isaolate from each other?
+3) sidecar pattern
