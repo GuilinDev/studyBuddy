@@ -1283,7 +1283,7 @@ SET optimizer_trace="enabled=off";
 
 **Speaker:** Xiuyi
 
-**Attendees:**  Isabella, Yu, Zhengda, Ning, Joy
+**Attendees:**  Isabella, Yu, Ruichen, Ning, Joy, Oli
 
 **Meeting Notes:**
 1) Is K8s Node same as distributed system Node?
