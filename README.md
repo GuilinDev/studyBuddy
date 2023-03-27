@@ -1289,3 +1289,15 @@ SET optimizer_trace="enabled=off";
 1) Is K8s Node same as distributed system Node?
 2) How do K8s nodes isaolate from each other?
 3) sidecar pattern
+
+## 085. 1）Design Distributed MQ
+**Meeting Date/Time:** 03/26/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Isabella, Xiuyi, Yu, Zhengda, Oli
+
+**Meeting Notes:**
+1) [Design Distributed MQ](https://www.youtube.com/watch?v=Z3X1YQ1YJ0A)
+2) Benefits of Distributed MQ
+3) 
