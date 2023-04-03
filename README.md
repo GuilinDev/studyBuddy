@@ -1301,3 +1301,13 @@ SET optimizer_trace="enabled=off";
 1) [Design Distributed MQ](https://www.youtube.com/watch?v=Z3X1YQ1YJ0A)
 2) Benefits of Distributed MQ
 3) 
+
+## 086. 1）Design Distributed MQ - Kafka Consumer groups
+**Meeting Date/Time:** 04/02/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Isabella, Xiuyi, Ning, Oli, Ruichen
+
+**Meeting Notes:**
+1) Delayed Message Delivery
