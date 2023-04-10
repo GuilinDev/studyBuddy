@@ -1320,4 +1320,4 @@ SET optimizer_trace="enabled=off";
 **Attendees:**  Isabella, Oli, Ruichen, Zhengda
 
 **Meeting Notes:**
-1) Delayed Message Delivery
+1) 
