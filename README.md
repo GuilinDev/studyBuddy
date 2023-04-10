@@ -1311,3 +1311,13 @@ SET optimizer_trace="enabled=off";
 
 **Meeting Notes:**
 1) Delayed Message Delivery
+
+## 087. 1）Infrastructure and tooling for MLOPS
+**Meeting Date/Time:** 04/02/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:**  Isabella, Oli, Ruichen, Zhengda
+
+**Meeting Notes:**
+1) Delayed Message Delivery
