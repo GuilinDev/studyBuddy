@@ -1313,7 +1313,7 @@ SET optimizer_trace="enabled=off";
 1) Delayed Message Delivery
 
 ## 087. 1）Infrastructure and tooling for MLOPS
-**Meeting Date/Time:** 04/02/2023
+**Meeting Date/Time:** 04/09/2023
 
 **Speaker:** Xiuyi
 
@@ -1321,3 +1321,16 @@ SET optimizer_trace="enabled=off";
 
 **Meeting Notes:**
 1) 
+
+## 088. 1）Transactions
+**Meeting Date/Time:** 04/23/2023
+
+**Speaker:** Isabella
+
+**Attendees:**  Xiuyi, Ning, Oli, Ruichen, Zhengda, Joy
+
+**Meeting Notes:**
+1) 转账的transaction，不同accounts之间，先减后加还是先加后见，讨论觉得先减后加，但DDIA ch7的例子是先加后减
+2）Isolation level: Read Uncommitted vs Read Committed vs Repeatable Read (Snapshot Isolation) vs Serializable
+
+![Isolatioin Levels](/meetingPPT/imgs/088.PNG)
