@@ -1343,9 +1343,7 @@ SET optimizer_trace="enabled=off";
 **Attendees:**  Isabella, Xiuyi, Ning, Oli, Ruichen, Zhengda
 
 **Meeting Notes:**
-1) Meeting Note: 
-
-Topic: 2023-04-30 Metrics Monitoring & Alerting System 
+1) Topic: 2023-04-30 Metrics Monitoring & Alerting System 
 
 1. Metrics Collections
 2. Alerting Systems
