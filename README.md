@@ -1334,3 +1334,13 @@ SET optimizer_trace="enabled=off";
 2）Isolation level: Read Uncommitted vs Read Committed vs Repeatable Read (Snapshot Isolation) vs Serializable
 
 ![Isolatioin Levels](/meetingPPT/imgs/088.PNG)
+
+## 089. Metrics and Alerting System
+**Meeting Date/Time:** 04/30/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Isabella, Xiuyi, Ning, Oli, Ruichen, Zhengda
+
+**Meeting Notes:**
+1) 
