@@ -1343,4 +1343,32 @@ SET optimizer_trace="enabled=off";
 **Attendees:**  Isabella, Xiuyi, Ning, Oli, Ruichen, Zhengda
 
 **Meeting Notes:**
-1) 
+1) Meeting Note: 
+
+Topic: 2023-04-30 Metrics Monitoring & Alerting System 
+
+1. Metrics Collections
+2. Alerting Systems
+
+Data retention policy:
+raw data for 7 days,
+1 min resolution for 30 days
+1 hour resolution for 1 year
+Non-functional requirements
+Scalability 
+Low latency 
+Reliability 
+Flexibility 
+
+Pull v.s. Push
+
+Aggregations:
+一般习惯用Flink，Spark来aggregte (用kafka功能非常少，kafka做aggregate很少用，社区讨论啊，支持啊都很少)。
+Kafka Streams natively supports "incremental" aggregation functions, in which the aggregation result is updated based on the values captured by each window. Incremental functions include count(), sum(), min(), and max().
+
+
+Handle storage:
+Down Sampling
+Cold Storage
+
+PagerDuty v.s. Prometheus
