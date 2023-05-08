@@ -1344,3 +1344,13 @@ SET optimizer_trace="enabled=off";
 
 **Meeting Notes:**
 1) 
+
+## 090. Ad Click Event Aggregation
+**Meeting Date/Time:** 05/07/2023
+
+**Speaker:** Joy
+
+**Attendees:**  Isabella, Xiuyi, Ning, Oli, Ruichen, Zhengda, Jeff
+
+**Meeting Notes:**
+1) 
