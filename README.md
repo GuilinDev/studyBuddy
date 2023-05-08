@@ -1370,3 +1370,20 @@ Down Sampling
 Cold Storage
 
 PagerDuty v.s. Prometheus
+
+## 089. Ad Click Event Aggregation 
+# 2023-05-07 Ad Click Event Aggregation
+
+Architectures: Lambda v.s. KAPPA 
+
+Real-time Streaming v.s. Batching 
+
+Online v.s. Offline aggregations 
+
+Scaling: YARN, and the Cassandra built-in 
+
+Partition tolerance: refer to the Swimlane Diagram > keep a record of your offset in the HDFS, and also group the (send aggregated result + save new offset + reply ACK to the Kafka) transaction. 
+
+Fault tolerance: keep the partial results. 
+
+Correctness: Reconciliation
