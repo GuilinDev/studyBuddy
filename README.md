@@ -1393,7 +1393,7 @@ Correctness: Reconciliation
 
 **Speaker:** Joy
 
-**Attendees:**  Isabella, Xiuyi, Ning, Oli, Ruichen, Zhengda, Jeff
+**Attendees:**  Isabella, Xiuyi, Ning, Oli, Zhengda, Jeff
 
 **Meeting Notes:**
 1) Ad Click Event Aggregation
@@ -1411,3 +1411,21 @@ Partition tolerance: refer to the Swimlane Diagram > keep a record of your offse
 Fault tolerance: keep the partial results.
 
 Correctness: Reconciliation
+
+## 091. 1）Transactions - 续
+**Meeting Date/Time:** 05/14/2023
+
+**Speaker:** Isabella
+
+**Attendees:** Joy, Xiuyi, Ning, Oli, Ruichen, Yu
+
+**Meeting Notes:**
+1) Lost update - write write conflict - Atomic write operation/Explict locking
+2) Write skew and phantoms - constraint locking / predicate locking
+3) Serializability Isolation - Two phase locking
+  * shared mode / exclusive mode
+  * growing phase - 可以获得锁，不能释放锁
+  * shrinking phase - 可以释放锁，不能获得锁
+  * bad for performance
+  * serializable snapshot isolation (SSI) - 读写锁分离, optimistic concurrency control (OCC)
+
