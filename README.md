@@ -1429,3 +1429,12 @@ Correctness: Reconciliation
   * bad for performance
   * serializable snapshot isolation (SSI) - 读写锁分离, optimistic concurrency control (OCC)
 
+## 092. 1）k8s - 1, Pod and ReplicaSet
+**Meeting Date/Time:** 05/21/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isabella, Joy, Oli, Ruichen, Yu, Zhengda
+
+**Meeting Notes:**
+1) 
