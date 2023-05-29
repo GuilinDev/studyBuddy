@@ -1438,3 +1438,27 @@ Correctness: Reconciliation
 
 **Meeting Notes:**
 1) 
+
+## 093. 1）Overview of Distributed Systems
+**Meeting Date/Time:** 05/28/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isabella, Joy, Oli, Yu, Zhengda
+
+**Meeting Notes:**
+1)  System Desing Components
+* DNS (Domain Name System) 
+* Load Balancer 
+* API Gateway 
+* CDN (Content Delivery Network) 
+* Forward Proxy v.s. Reverse Proxy 
+* Caching 
+* Data Partitioning 
+* Sharding 
+* Database Replication (Async v.s. semi-sync v.s. synchronous) Quorum () 
+* Distributed Messaging System 
+* Distributed File Systems 
+* Notification System 
+* Full-text Search 
+* Data Warehouse 
