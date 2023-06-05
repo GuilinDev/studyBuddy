@@ -1462,3 +1462,21 @@ Correctness: Reconciliation
 * Notification System 
 * Full-text Search 
 * Data Warehouse 
+
+## 094. 1）System Design - Hotel Reservation System (Airbnb)
+**Meeting Date/Time:** 05/04/2023
+
+**Speaker:** Joy
+
+**Attendees:** Xiuyi, Isabella, Ning, Yu, Zhengda
+
+**Meeting Notes:**
+1) System Design - Hotel Reservation System (Airbnb)
+* instead of room id, use room type
+* reservation id
+* idenpotence for reservation id, idempotent API
+* pessimistic locking v.s. optimistic locking
+  * pessimistic locking - lock the resource before you use it
+  * optimistic locking - version number, compare and check outdated or not
+* 2 phase commit and 3 phase commit
+
