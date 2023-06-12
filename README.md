@@ -1464,7 +1464,7 @@ Correctness: Reconciliation
 * Data Warehouse 
 
 ## 094. 1）System Design - Hotel Reservation System (Airbnb)
-**Meeting Date/Time:** 05/04/2023
+**Meeting Date/Time:** 06/04/2023
 
 **Speaker:** Joy
 
@@ -1480,3 +1480,12 @@ Correctness: Reconciliation
   * optimistic locking - version number, compare and check outdated or not
 * 2 phase commit and 3 phase commit
 
+## 094. 1）Messaging System
+**Meeting Date/Time:** 06/11/2023
+
+**Speaker:** Isabella
+
+**Attendees:** Xiuyi, Yu, Ruichen, Oli, Zhengda
+
+**Meeting Notes:**
+1) Distributed transaction - 2 phase commit and 3 phase commit
