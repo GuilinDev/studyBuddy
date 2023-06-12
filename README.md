@@ -1489,3 +1489,4 @@ Correctness: Reconciliation
 
 **Meeting Notes:**
 1) Distributed transaction - 2 phase commit and 3 phase commit
+2) Atomic transaction protocol
