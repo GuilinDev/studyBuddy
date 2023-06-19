@@ -1490,3 +1490,13 @@ Correctness: Reconciliation
 **Meeting Notes:**
 1) Distributed transaction - 2 phase commit and 3 phase commit
 2) Atomic transaction protocol
+
+## 095. 1）Kubernetes - 2, Deployment, replicaSet and deamonSet
+**Meeting Date/Time:** 06/18/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isabella, Yu, Ruichen, Oli, Zhengda
+
+**Meeting Notes:**
+1)
