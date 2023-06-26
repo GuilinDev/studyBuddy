@@ -1500,3 +1500,13 @@ Correctness: Reconciliation
 
 **Meeting Notes:**
 1)
+
+## 096. 1）Overview for Coding Interview
+**Meeting Date/Time:** 06/25/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isabella, Yu, Ruichen, Oli, Zhengda
+
+**Meeting Notes:**
+1)
