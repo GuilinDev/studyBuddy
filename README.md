@@ -1506,7 +1506,17 @@ Correctness: Reconciliation
 
 **Speaker:** Xiuyi
 
-**Attendees:** Isabella, Yu, Ruichen, Oli, Zhengda
+**Attendees:** Isabella, Yu, Joy, Ruichen, Oli, Zhengda
 
 **Meeting Notes:**
 1)
+
+## 097. 1）Microsoft AI for Beginners (part1)
+**Meeting Date/Time:** 07/02/2023
+
+**Speaker:** Ruichen
+
+**Attendees:** Isabella, Xiuyi, Wenruo
+
+**Meeting Notes:**
+1) [Microsoft Course - AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
