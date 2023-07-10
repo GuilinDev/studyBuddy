@@ -1520,3 +1520,14 @@ Correctness: Reconciliation
 
 **Meeting Notes:**
 1) [Microsoft Course - AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
+
+## 098. 1）An incomplete list of skills senior+ engineers need, beyond coding
+**Meeting Date/Time:** 07/09/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isabella, Ning, Oli, Ruichen, Yu, Zhengda
+
+**Meeting Notes:**
+1) [Senior+ Engineer](https://github.com/GuilinDev/Notes/blob/master/SkillsBeyondCoding/SeniorEngineersSoftSkills.md)
+
