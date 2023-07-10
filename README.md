@@ -1530,4 +1530,8 @@ Correctness: Reconciliation
 
 **Meeting Notes:**
 1) [Senior+ Engineer](https://github.com/GuilinDev/Notes/blob/master/SkillsBeyondCoding/SeniorEngineersSoftSkills.md)
+2) Treat your team as a company, treat other teams as customers;
+3) Divide and conquer: 5 years -> 1 year -> 6 months -> 1 month -> 1 week -> 1 day; soft goals;
+4) How to persuade other teams to adopt your solutions in real work?
+5) In Interviews?
 
