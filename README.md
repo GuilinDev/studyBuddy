@@ -1540,7 +1540,7 @@ Correctness: Reconciliation
 
 **Speaker:** Xiuyi
 
-**Attendees:** Joy, Ning, Oli, Ruichen, Yu, Zhengda
+**Attendees:** Joy, Oli, Ruichen, Yu, Zhengda
 
 **Meeting Notes:**
 [31 Startup business models you must know - with examples](https://navdeepyadav.medium.com/31-startup-business-models-you-must-know-with-examples-c0107fa33b17)
