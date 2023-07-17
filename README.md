@@ -1535,3 +1535,12 @@ Correctness: Reconciliation
 4) How to persuade other teams to adopt your solutions in real work?
 5) In Interviews?
 
+## 098. 1）An incomplete list of skills senior+ engineers need, beyond coding
+**Meeting Date/Time:** 07/16/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Joy, Ning, Oli, Ruichen, Yu, Zhengda
+
+**Meeting Notes:**
+[31 Startup business models you must know - with examples](https://navdeepyadav.medium.com/31-startup-business-models-you-must-know-with-examples-c0107fa33b17)
