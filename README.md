@@ -1544,3 +1544,12 @@ Correctness: Reconciliation
 
 **Meeting Notes:**
 [31 Startup business models you must know - with examples](https://navdeepyadav.medium.com/31-startup-business-models-you-must-know-with-examples-c0107fa33b17)
+
+## 100. 1）Distributed Email System
+**Meeting Date/Time:** 07/23/2023
+
+**Speaker:** Joy
+
+**Attendees:** Isa, Xiuyi, Oli, Yu, Ning
+
+**Meeting Notes:**
