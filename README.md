@@ -1553,3 +1553,14 @@ Correctness: Reconciliation
 **Attendees:** Isa, Xiuyi, Oli, Yu, Ning
 
 **Meeting Notes:**
+
+## 101. 1）Review Senarios for System Design Terms; 2) Improve your visibility 
+**Meeting Date/Time:** 07/30/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isa, Joy, Oli, Yu, Ruichen, Yu, Zhengda
+
+**Meeting Notes:**
+[1) Review Senarios for System Design Terms](https://github.com/GuilinDev/Notes/blob/master/SystemDesign/ScenariosQuestions.md)
+[2) Improve your visibility](https://github.com/GuilinDev/Notes/blob/master/SkillsBeyondCoding/%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9Cvisibility.md)
