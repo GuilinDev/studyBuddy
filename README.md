@@ -1565,7 +1565,7 @@ Correctness: Reconciliation
 [1) Review Senarios for System Design Terms](https://github.com/GuilinDev/Notes/blob/master/SystemDesign/ScenariosQuestions.md)
 [2) Improve your visibility](https://github.com/GuilinDev/Notes/blob/master/SkillsBeyondCoding/%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9Cvisibility.md)
 
-## 101. Tiny URL System Design
+## 102. Tiny URL System Design
 **Meeting Date/Time:** 08/06/2023
 
 **Speaker:** Isa
@@ -1575,3 +1575,13 @@ Correctness: Reconciliation
 **Meeting Notes:**
 1) encoding vs encryption
 2) delete longURL?
+
+## 103. Real-time Gaming Leaderboard System Design
+**Meeting Date/Time:** 08/13/2023
+
+**Speaker:** Joy
+
+**Attendees:** Xiuyi, Isa, Oli, Ruichen, Ning, 
+
+**Meeting Notes:**
+
