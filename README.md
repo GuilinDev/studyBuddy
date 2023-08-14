@@ -1584,4 +1584,12 @@ Correctness: Reconciliation
 **Attendees:** Xiuyi, Isa, Oli, Ruichen, Ning, 
 
 **Meeting Notes:**
-
+* Real-time Gaming Leaderboard
+* Requirement: Display top 10 players on the leaderboard. 
+* Show a user’s specific rank. 
+* Display players who are four places above and below the desired user (bonus). 
+* Non-functional requirements Real-time update on scores. 
+* 5M DAU QPS : if user play 10 games per day on average. 
+* API Design POST /v1/scores [user id, points] 
+* GET /v1/scores 
+* GET /v1/scores/{:userId}
