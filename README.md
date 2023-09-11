@@ -1594,7 +1594,11 @@ Correctness: Reconciliation
 * GET /v1/scores 
 * GET /v1/scores/{:userId}
 
-## 103. K8s Service and Ingress
+## 104. 
+
+## 105. 
+
+## 106. K8s Service and Ingress
 **Meeting Date/Time:** 09/10/2023
 
 **Speaker:** Xiuyi
