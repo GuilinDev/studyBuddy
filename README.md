@@ -1593,3 +1593,10 @@ Correctness: Reconciliation
 * API Design POST /v1/scores [user id, points] 
 * GET /v1/scores 
 * GET /v1/scores/{:userId}
+
+## 103. K8s Service and Ingress
+**Meeting Date/Time:** 09/10/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Joy, Isa, Oli, Yu, Ruichen, Ning, Zhengda
