@@ -1604,3 +1604,17 @@ Correctness: Reconciliation
 **Speaker:** Xiuyi
 
 **Attendees:** Joy, Isa, Oli, Yu, Ruichen, Ning, Zhengda
+
+## 107. Digital Wallet
+**Meeting Date/Time:** 09/17/2023
+
+**Speaker:** Joy
+
+**Attendees:** Isa, Xiuyi, Yu, Ning
+
+## 108. Partition
+**Meeting Date/Time:** 09/24/2023
+
+**Speaker:** Isa
+
+**Attendees:** Xiuyi, Yu, Joy
