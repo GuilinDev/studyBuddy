@@ -1618,3 +1618,10 @@ Correctness: Reconciliation
 **Speaker:** Isa
 
 **Attendees:** Xiuyi, Yu, Joy, Zhengda
+
+## 109. Database transaction concurrency control
+**Meeting Date/Time:** 10/01/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isa, Yu, Oli, Ruichen, Ning
