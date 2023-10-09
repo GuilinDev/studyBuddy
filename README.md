@@ -1625,3 +1625,14 @@ Correctness: Reconciliation
 **Speaker:** Xiuyi
 
 **Attendees:** Isa, Yu, Oli, Ruichen, Ning
+
+## 110. 四个问题
+**Meeting Date/Time:** 10/01/2023
+
+**Speaker:** Ning, Yu, Isa, Ruichen
+
+**Attendees:** Xiuyi，Joy
+1）分布式系统中API设计的幂等性设计应该考虑哪些因素？
+2）分布式系统中请求之间的顺序性如何保证？（例如用MQ做例子）
+3）Zookeeper的使用场景和竞品有哪些？
+4）简述cookie，session，token之间的联系和区别？讲述分布式session和sticky session
