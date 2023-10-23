@@ -1644,3 +1644,11 @@ Correctness: Reconciliation
 
 **Attendees:** Xiuyi，Oli, Yu, Isa, Ruichen, Zhengda
 
+## 111. Consistency
+**Meeting Date/Time:** 10/22/2023
+
+**Speaker:** Isa
+
+**Attendees:** Xiuyi，Oli, Joy, Yu, Ning
+1) Linearizability 
+2) Serializability 
