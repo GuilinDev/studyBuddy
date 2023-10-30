@@ -1653,7 +1653,7 @@ Correctness: Reconciliation
 1) Linearizability 
 2) Serializability 
 
-## 111. Consistency
+## 112. Consistency
 **Meeting Date/Time:** 10/22/2023
 
 **Speaker:** Xiuyi
