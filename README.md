@@ -1652,3 +1652,11 @@ Correctness: Reconciliation
 **Attendees:** Xiuyi，Oli, Joy, Yu, Ning
 1) Linearizability 
 2) Serializability 
+
+## 111. Consistency
+**Meeting Date/Time:** 10/22/2023
+
+**Speaker:** Xiuyi
+
+**Attendees:** Isa, Joy, Yu, Ning, Shuai
+1) Toekn based Authentication
