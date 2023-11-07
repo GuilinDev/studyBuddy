@@ -1637,7 +1637,7 @@ Correctness: Reconciliation
 3）Zookeeper的使用场景和竞品有哪些？
 4）简述cookie，session，token之间的联系和区别？讲述分布式session和sticky session
 
-## 110. Stock Exchange
+## 111. Stock Exchange
 **Meeting Date/Time:** 10/15/2023
 
 **Speaker:** Joy
@@ -1652,3 +1652,14 @@ Correctness: Reconciliation
 **Attendees:** Xiuyi，Oli, Joy, Yu, Ning
 1) Linearizability 
 2) Serializability 
+
+## 112. 四个问题
+**Meeting Date/Time:** 11/05/2023
+
+**Speaker:** Ning, Yu, Sophia, Norman
+
+**Attendees:** Xiuyi, Ruichen, Joy
+1) 2 Phase Commit - XA 方案 - participant状态提交的阻塞问题；cordiantor单点问题；在网络分区或协调者故障的情况下不保证一致性；悲观锁
+2) 3 Phase Commit - TCC方案 - 悲观锁，解决coordinator的单点问题 - 应用场景？
+3) 简述MySQL, Redis，ZK实现分布式锁 - zk如何解决service的死锁问题？
+4) 业界常见的分布式锁解决方案 - Chubby, Curator, ZK, DynamoDB, Redis, etcd, etcd-recipes, Consul
