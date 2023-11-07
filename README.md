@@ -1663,3 +1663,4 @@ Correctness: Reconciliation
 2) 3 Phase Commit - TCC方案 - 悲观锁，解决coordinator的单点问题 - 应用场景？
 3) 简述MySQL, Redis，ZK实现分布式锁 - zk如何解决service的死锁问题？
 4) 业界常见的分布式锁解决方案 - Chubby, Curator, ZK, DynamoDB, Redis, etcd, etcd-recipes, Consul
+
