@@ -1664,3 +1664,13 @@ Correctness: Reconciliation
 3) 简述MySQL, Redis，ZK实现分布式锁 - zk如何解决service的死锁问题？
 4) 业界常见的分布式锁解决方案 - Chubby, Curator, ZK, DynamoDB, Redis, etcd, etcd-recipes, Consul
 
+## 113. 数据存储与检索 Index in DDIA
+**Meeting Date/Time:** 11/12/2023
+
+**Speaker:** Joy
+
+**Attendees:** Xiuyi, Isa, Ning, Yu, Sophia, Norman, Oli, Ruichen
+1) In LSM, how to know which segments are new and which are old? - TimeStamp, Serial Number, Tiered Compaction, Bloom Filter Tier, etc
+2) sequential write v.s. random write, use WAL to protect data
+3) B-Tree v.s. LSM
+4) B+ Tree, many DBs have 3~4 levels, use "latch" or "copy on write" to protect the tree
