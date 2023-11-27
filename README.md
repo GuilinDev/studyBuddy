@@ -1685,5 +1685,5 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 11/26/2023
 
 **Speaker:** Xiuyi
-**Attendees:** 
+**Attendees:** Jou, xiao, jeff, Ning, Sophia, Norman, Oli, Ziwei
 1) how many users/sessions can 1 websocket handle? 1 websocket connection for 1 user
