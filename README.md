@@ -1674,3 +1674,16 @@ Correctness: Reconciliation
 2) sequential write v.s. random write, use WAL to protect data
 3) B-Tree v.s. LSM
 4) B+ Tree, many DBs have 3~4 levels, use "latch" or "copy on write" to protect the tree
+
+## 114. DDIA
+**Meeting Date/Time:** 11/19/2023
+
+**Speaker:** Isa
+**Attendees:** Xiuyi, Joy, Ning, Yu, Sophia, Norman, Oli, Ruichen
+
+## 115. Websocket and devops
+**Meeting Date/Time:** 11/26/2023
+
+**Speaker:** Xiuyi
+**Attendees:** 
+1) how many users/sessions can 1 websocket handle? 1 websocket connection for 1 user
