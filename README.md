@@ -1685,5 +1685,12 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 11/26/2023
 
 **Speaker:** Xiuyi
-**Attendees:** Jou, xiao, jeff, Ning, Sophia, Norman, Oli, Ziwei
+**Attendees:** Joy, xiao, jeff, Ning, Sophia, Norman, Oli, Ziwei
 1) how many users/sessions can 1 websocket handle? 1 websocket connection for 1 user
+
+**Speaker:** Ning, Yu, Sophia, Ruichen
+**Attendees:** Xiuyi, Joy, Zhengda, Norman, Ziwei
+1) @柠檬 综合各个方面，例如应用场景，格式，效率，安全性等等，对比API架构类型 SOAP, REST, RPC，GraphQL；
+2）@yugege 结合自己工作经验，介绍企业中一个系统向另外一个系统同步数据的方式，例如何种场景使用了RPC，为什么使用RPC，为什么选择JSON/protocol buffer/avro作为数据传输格式，等等；
+3）@Sophia Lu 当我们设计面向customers的API时，通常需要做什么样的措施来保护我们的APIs? 例如 OAuth2， Versioning， Rate Limiting， Input Validation， API Gateway等等；
+4）@Ruichen Rong 常见的API接口测试方法有哪些，各适用于什么场景？例如Integration Testing, Functional Testing, Smoke Testing, Load Testing, Regression Testing等等。
