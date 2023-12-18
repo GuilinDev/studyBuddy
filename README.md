@@ -1697,9 +1697,15 @@ Correctness: Reconciliation
 3）@Sophia Lu 当我们设计面向customers的API时，通常需要做什么样的措施来保护我们的APIs? 例如 OAuth2， Versioning， Rate Limiting， Input Validation， API Gateway等等；
 4）@Ruichen Rong 常见的API接口测试方法有哪些，各适用于什么场景？例如Integration Testing, Functional Testing, Smoke Testing, Load Testing, Regression Testing等等。
 
-## 117. DDIA chapter 2 - Replication
+## 117. DDIA chapter 2 - Replication - 1 - Single Leader
 **Meeting Date/Time:** 11/26/2023
 **Speaker:** Joy
 **Attendees:** Isa, Xiuyi, Ning, Sophia, Norman, Oli, Ziwei, Zhengda, Ruichen
 1) Replication - single leader v.s. multi-leader v.s. leaderless
 2) leaders to followers -> logs
+
+## 118. DDIA chapter 2 - Replication - 2 - Multi Leader and Leaderless
+**Meeting Date/Time:** 11/26/2023
+**Speaker:** Joy
+**Attendees:** Xiuyi, Sophia, Ziwei, Zhengda
+1) 
