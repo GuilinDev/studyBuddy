@@ -1689,7 +1689,7 @@ Correctness: Reconciliation
 1) how many users/sessions can 1 websocket handle? 1 websocket connection for 1 user
 
 ## 116. 四个问题
-**Meeting Date/Time:** 11/26/2023
+**Meeting Date/Time:** 12/03/2023
 **Speaker:** Ning, Yu, Sophia, Ruichen
 **Attendees:** Xiuyi, Joy, Zhengda, Norman, Ziwei
 1) @柠檬 综合各个方面，例如应用场景，格式，效率，安全性等等，对比API架构类型 SOAP, REST, RPC，GraphQL；
@@ -1698,14 +1698,20 @@ Correctness: Reconciliation
 4）@Ruichen Rong 常见的API接口测试方法有哪些，各适用于什么场景？例如Integration Testing, Functional Testing, Smoke Testing, Load Testing, Regression Testing等等。
 
 ## 117. DDIA chapter 2 - Replication - 1 - Single Leader
-**Meeting Date/Time:** 11/26/2023
+**Meeting Date/Time:** 12/10/2023
 **Speaker:** Joy
 **Attendees:** Isa, Xiuyi, Ning, Sophia, Norman, Oli, Ziwei, Zhengda, Ruichen
 1) Replication - single leader v.s. multi-leader v.s. leaderless
 2) leaders to followers -> logs
 
 ## 118. DDIA chapter 2 - Replication - 2 - Multi Leader and Leaderless
-**Meeting Date/Time:** 11/26/2023
+**Meeting Date/Time:** 12/17/2023
 **Speaker:** Joy
 **Attendees:** Xiuyi, Sophia, Ziwei, Zhengda
+1) 
+
+## 118. Idempontence
+**Meeting Date/Time:** 12/24/2023
+**Speaker:** Guilin
+**Attendees:** Joy, Ruichen
 1) 
