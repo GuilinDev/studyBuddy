@@ -1710,8 +1710,20 @@ Correctness: Reconciliation
 **Attendees:** Xiuyi, Sophia, Ziwei, Zhengda
 1) 
 
-## 118. Idempontence
+## 119. Idempontence
 **Meeting Date/Time:** 12/24/2023
 **Speaker:** Guilin
 **Attendees:** Joy, Ruichen
+1) 
+
+## 120. New year goals
+**Meeting Date/Time:** 01/07/2024
+**Speaker:** 
+**Attendees:** Guilin, Ruichen
+1) 
+
+## 121. CI with Github Actions
+**Meeting Date/Time:** 01/14/2024
+**Speaker:** Guilin
+**Attendees:** Sophia, Joy, Ruichen, Ziwei, Zhengda
 1) 
