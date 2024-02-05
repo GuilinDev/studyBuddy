@@ -1727,3 +1727,19 @@ Correctness: Reconciliation
 **Speaker:** Guilin
 **Attendees:** Sophia, Joy, Ruichen, Ziwei, Zhengda
 1) 
+
+## 122. Top K problem
+**Meeting Date/Time:** 01/21/2024
+**Speaker:** 
+**Attendees:** Norman, Sophia, Guilin, Oli, Ziwei, Zhengda
+1) Bloom Filter
+2) Count-Min Sketch
+
+## 123. 1）Some Reviews
+**Meeting Date/Time:** 02/04/2024
+**Speaker:** Guilin
+**Attendees:** Ning, Oli, Sophia, Wenruo, Ruichen, Ziwei, Zhengda
+1) Monolith v.s. Microservice
+2) Separate Frontend and Backend
+3) A BQ template
+
