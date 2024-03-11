@@ -1743,3 +1743,8 @@ Correctness: Reconciliation
 2) Separate Frontend and Backend
 3) A BQ template
 
+## 124. 1）Free talks
+**Meeting Date/Time:** 03/10/2024
+**Speaker:** Guilin
+**Attendees:** Ning, Norman, Isabella, Ziwei, Zhengda
+1) AI - https://mp.weixin.qq.com/s/M5K49T2CGcUb5yh6bWnXZg
