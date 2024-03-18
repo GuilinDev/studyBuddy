@@ -1748,3 +1748,10 @@ Correctness: Reconciliation
 **Speaker:** Guilin
 **Attendees:** Ning, Norman, Isabella, Ziwei, Zhengda
 1) AI - https://mp.weixin.qq.com/s/M5K49T2CGcUb5yh6bWnXZg
+
+## 124. 1）From Container to Wasm on Kubernetes
+**Meeting Date/Time:** 03/17/2024
+**Speaker:** Guilin
+**Attendees:** Sophia, Zhengda
+1) https://www.cncf.io/blog/2024/03/12/webassembly-on-kubernetes-from-containers-to-wasm-part-01/
+
