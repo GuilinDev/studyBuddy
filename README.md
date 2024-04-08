@@ -1771,3 +1771,8 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 03/31/2024
 **Speaker:** Guilin
 **Attendees:** Zhengda, Ning
+
+## 128. 1）Overview of Distributed Systems
+**Meeting Date/Time:** 04/07/2024
+**Speaker:** Guilin
+**Attendees:** Zhengda, Ning, Norman, Oli
