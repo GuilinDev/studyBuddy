@@ -1776,3 +1776,8 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 04/07/2024
 **Speaker:** Guilin
 **Attendees:** Zhengda, Ning, Norman, Oli
+
+## 129. 1）CICD with Github Actions and argoCD
+**Meeting Date/Time:** 04/14/2024
+**Speaker:** Guilin
+**Attendees:** Zhengda, Ning, Oli
