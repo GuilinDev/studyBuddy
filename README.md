@@ -1781,3 +1781,19 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 04/14/2024
 **Speaker:** Guilin
 **Attendees:** Zhengda, Ning, Oli
+
+## 130. 1）Introduction to Llama3
+**Meeting Date/Time:** 04/21/2024
+**Speaker:** Guilin
+**Attendees:** Zhengda, Ning, Oli
+1) https://www.meta.ai/
+2) https://lmstudio.ai/
+3) https://jan.ai/
+4) https://www.youtube.com/watch?v=bc6uFV9CJGg
+
+## 131. 1）Design Metrics & Alerting System 0 - Overview
+**Meeting Date/Time:** 05/05/2024
+**Speaker:** Guilin
+**Attendees:** Oli
+1) Logging v.s. Metrics v.s. Tracing
+2) Prometheus v.s. Zabbix vs Nightingale
