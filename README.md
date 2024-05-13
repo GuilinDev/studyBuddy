@@ -1797,3 +1797,11 @@ Correctness: Reconciliation
 **Attendees:** Oli
 1) Logging v.s. Metrics v.s. Tracing
 2) Prometheus v.s. Zabbix vs Nightingale
+
+## 132. 1）Design Metrics & Alerting System 1 - Glossary and Architecture
+**Meeting Date/Time:** 05/12/2024
+**Speaker:** Guilin
+**Attendees:** Oli, Zhengda
+1) Metrics - 3 identifiers: global unique name, timestamp, influxdb way
+2) Metrics - Counter, Gauge, Histogram, Summary
+
