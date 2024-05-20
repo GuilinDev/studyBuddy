@@ -1805,3 +1805,8 @@ Correctness: Reconciliation
 1) Metrics - 3 identifiers: global unique name, timestamp, influxdb way
 2) Metrics - Counter, Gauge, Histogram, Summary
 
+## 132. 1）Design Metrics & Alerting System 2 - Monitoring Architecture
+**Meeting Date/Time:** 05/19/2024
+**Speaker:** Guilin
+**Attendees:** Oli, Ning
+1) Exporters, TSDB, Alerting, Visualization
