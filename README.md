@@ -1810,3 +1810,15 @@ Correctness: Reconciliation
 **Speaker:** Guilin
 **Attendees:** Oli, Ning
 1) Exporters, TSDB, Alerting, Visualization
+
+## 133. 1）Design Metrics & Alerting System 3 - Start Prometheus cluster and key concepts
+**Meeting Date/Time:** 06/02/2024
+**Speaker:** Guilin
+**Attendees:** Oli, Zhengda
+1) Start Prometheus cluster and key concepts
+
+## 134. 1）AI RAG and Langchain
+**Meeting Date/Time:** 06/23/2024
+**Speaker:** Guilin
+**Attendees:** Oli, Norman
+1) AI RAG and Langchain
