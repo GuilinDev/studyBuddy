@@ -1822,3 +1822,9 @@ Correctness: Reconciliation
 **Speaker:** Guilin
 **Attendees:** Oli, Norman
 1) AI RAG and Langchain
+
+## 135. 1）Neuroplatform
+**Meeting Date/Time:** 06/30/2024
+**Speaker:** Guilin
+**Attendees:** Zhengda, Ning
+1) [Neuroplatform](https://docs.google.com/presentation/d/1NQC_oqlvfZH1TNDIq-K0fYaamrp7vuTWezkgibFQwzQ/edit?usp=sharing)
