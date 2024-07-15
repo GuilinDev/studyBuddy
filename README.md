@@ -1828,3 +1828,8 @@ Correctness: Reconciliation
 **Speaker:** Guilin
 **Attendees:** Zhengda, Ning
 1) [Neuroplatform](https://docs.google.com/presentation/d/1NQC_oqlvfZH1TNDIq-K0fYaamrp7vuTWezkgibFQwzQ/edit?usp=sharing)
+
+# 136. 1）Deploy Kafka on Kubernetes; 2) RAG - AnythingLLM
+**Meeting Date/Time:** 07/14/2024
+**Speaker:** Guilin
+**Attendees:** Norman, Ruicheng, Will
