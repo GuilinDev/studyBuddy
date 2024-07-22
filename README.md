@@ -1833,3 +1833,8 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 07/14/2024
 **Speaker:** Guilin
 **Attendees:** Norman, Ruicheng, Will
+
+# 137. 1）[Graphrag](https://github.com/microsoft/graphrag)
+**Meeting Date/Time:** 07/21/2024
+**Speaker:** Guilin
+**Attendees:** Oli
