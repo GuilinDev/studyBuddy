@@ -1838,3 +1838,8 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 07/21/2024
 **Speaker:** Guilin
 **Attendees:** Oli
+
+# 138. 1）AI Engineer
+**Meeting Date/Time:** 07/28/2024
+**Speaker:** Guilin
+**Attendees:** Oli, Ziwei
