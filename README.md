@@ -1849,3 +1849,8 @@ Correctness: Reconciliation
 **Speaker:** Guilin
 **Attendees:** Oli
 1) Streamlit: [https://streamlit.io/](https://streamlit.io/)
+
+# 140. 1）Deep Learning 101 - 0
+**Meeting Date/Time:** 08/11/2024
+**Speaker:** Guilin
+**Attendees:** Ning
