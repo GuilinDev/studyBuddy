@@ -1829,28 +1829,28 @@ Correctness: Reconciliation
 **Attendees:** Zhengda, Ning
 1) [Neuroplatform](https://docs.google.com/presentation/d/1NQC_oqlvfZH1TNDIq-K0fYaamrp7vuTWezkgibFQwzQ/edit?usp=sharing)
 
-# 136. 1）Deploy Kafka on Kubernetes; 2) RAG - AnythingLLM
+## 136. 1）Deploy Kafka on Kubernetes; 2) RAG - AnythingLLM
 **Meeting Date/Time:** 07/14/2024
 **Speaker:** Guilin
 **Attendees:** Norman, Ruicheng, Will
 
-# 137. 1）[Graphrag](https://github.com/microsoft/graphrag)
+## 137. 1）[Graphrag](https://github.com/microsoft/graphrag)
 **Meeting Date/Time:** 07/21/2024
 **Speaker:** Guilin
 **Attendees:** Oli
 
-# 138. 1）AI Engineer
+## 138. 1）AI Engineer
 **Meeting Date/Time:** 07/28/2024
 **Speaker:** Guilin
 **Attendees:** Oli, Ziwei
 
-# 139. 1）Streamlit for AI chatbot
+## 139. 1）Streamlit for AI chatbot
 **Meeting Date/Time:** 08/04/2024
 **Speaker:** Guilin
 **Attendees:** Oli
 1) Streamlit: [https://streamlit.io/](https://streamlit.io/)
 
-# 140. 1）Deep Learning 101 - 0
+## 140. 1）Deep Learning 101 - 0
 **Meeting Date/Time:** 08/11/2024
 **Speaker:** Guilin
 **Attendees:** Ning
