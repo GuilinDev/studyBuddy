@@ -1854,3 +1854,8 @@ Correctness: Reconciliation
 **Meeting Date/Time:** 08/11/2024
 **Speaker:** Guilin
 **Attendees:** Ning
+
+## 141. 1）Deep Learning 101 - 1 Full Connected Neural Network and Demo
+**Meeting Date/Time:** 08/18/2024
+**Speaker:** Guilin
+**Attendees:** Ning, Oli
